@@ -1,4 +1,4 @@
-package com.example.myawesomequiz;
+package com.example.myawesomequiz.activities.quiz;
 
 import android.content.res.ColorStateList;
 import android.graphics.Color;
@@ -13,7 +13,8 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.myawesomequiz.database.TestAdapter;
+import com.example.myawesomequiz.models.Question;
+import com.example.myawesomequiz.R;
 
 import java.util.Collections;
 import java.util.List;
@@ -63,7 +64,7 @@ public class QuizActivity extends AppCompatActivity {
 //        questionList = dbHelper.getAllQuestions();
 //
 
-        TestAdapter mDbHelper = new TestAdapter(this);
+        QuizDBAdapter mDbHelper = new QuizDBAdapter(this);
         mDbHelper.createDatabase();
         mDbHelper.open();
 

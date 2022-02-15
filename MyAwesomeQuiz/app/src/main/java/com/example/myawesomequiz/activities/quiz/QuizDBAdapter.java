@@ -1,4 +1,4 @@
-package com.example.myawesomequiz.database;
+package com.example.myawesomequiz.activities.quiz;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
@@ -10,10 +10,11 @@ import android.database.SQLException;
 import android.database.sqlite.SQLiteDatabase;
 import android.util.Log;
 
-import com.example.myawesomequiz.Question;
-import com.example.myawesomequiz.QuizContract;
+import com.example.myawesomequiz.database.DataBaseHelper;
+import com.example.myawesomequiz.models.Question;
+import com.example.myawesomequiz.models.QuizContract;
 
-public class TestAdapter {
+public class QuizDBAdapter {
 
     protected static final String TAG = "DataAdapter";
 
@@ -21,12 +22,12 @@ public class TestAdapter {
     private SQLiteDatabase mDb;
     private DataBaseHelper mDbHelper;
 
-    public TestAdapter(Context context) {
+    public QuizDBAdapter(Context context) {
         this.mContext = context;
         mDbHelper = new DataBaseHelper(mContext);
     }
 
-    public TestAdapter createDatabase() throws SQLException {
+    public QuizDBAdapter createDatabase() throws SQLException {
         try {
             mDbHelper.createDataBase();
         } catch (IOException mIOException) {
@@ -36,7 +37,7 @@ public class TestAdapter {
         return this;
     }
 
-    public TestAdapter open() throws SQLException {
+    public QuizDBAdapter open() throws SQLException {
         try {
             mDbHelper.openDataBase();
             mDbHelper.close();

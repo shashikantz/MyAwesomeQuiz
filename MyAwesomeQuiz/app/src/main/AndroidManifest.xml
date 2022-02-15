@@ -10,10 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyAwesomeQuiz">
         <activity
-            android:name=".QuizActivity"
+            android:name=".activities.quiz.QuizActivity"
             android:exported="false" />
         <activity
-            android:name=".StartingScreenActivity"
+            android:name=".activities.main.StartingScreenActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
