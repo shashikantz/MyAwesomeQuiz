@@ -59,7 +59,7 @@ public class QuizDBAdapter {
 
 
         try {
-            Cursor c = mDb.rawQuery("SELECT * FROM " + QuizContract.QuestionsTable.TABLE_NAME + " limit 10", null);
+            Cursor c = mDb.rawQuery("SELECT * FROM " + QuizContract.QuestionsTable.TABLE_NAME + " limit 100", null);
 
             if (c.moveToFirst()) {
                 do {
@@ -69,7 +69,7 @@ public class QuizDBAdapter {
                     question.setOption2(c.getString(c.getColumnIndex(QuizContract.QuestionsTable.COLUMN_OPTION2)));
                     question.setOption3(c.getString(c.getColumnIndex(QuizContract.QuestionsTable.COLUMN_OPTION3)));
                     question.setOption4(c.getString(c.getColumnIndex(QuizContract.QuestionsTable.COLUMN_OPTION4)));
-                    question.setAnswerNr(c.getString(c.getColumnIndex(QuizContract.QuestionsTable.COLUMN_ANSWER)).trim().toCharArray()[0]);
+                    question.setCorrectAnswer(c.getString(c.getColumnIndex(QuizContract.QuestionsTable.COLUMN_ANSWER)).trim().toCharArray()[0]);
                     questionList.add(question);
                 } while (c.moveToNext());
             }

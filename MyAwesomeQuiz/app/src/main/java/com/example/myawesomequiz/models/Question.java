@@ -6,17 +6,22 @@ public class Question {
     private String option2;
     private String option3;
     private String option4;
-    private char answerNr;
+    private char correctAnswer;
+    private int selectedAnswer = -1; //option -1 -> means not selected yet
 
-    public Question() {
-    }
 
-    public Question(String question, String option1, String option2, String option3, char answerNr) {
+    public Question(String question, String option1, String option2, String option3, String option4, char correctAnswer) {
         this.question = question;
         this.option1 = option1;
         this.option2 = option2;
         this.option3 = option3;
-        this.answerNr = answerNr;
+        this.option4 = option4;
+        this.correctAnswer = correctAnswer;
+
+    }
+
+    public Question() {
+
     }
 
     public String getQuestion() {
@@ -59,11 +64,19 @@ public class Question {
         this.option4 = option4;
     }
 
-    public char getAnswerNr() {
-        return answerNr;
+    public char getCorrectAnswer() {
+        return correctAnswer;
     }
 
-    public void setAnswerNr(char answerNr) {
-        this.answerNr = answerNr;
+    public void setCorrectAnswer(char correctAnswer) {
+        this.correctAnswer = correctAnswer;
+    }
+
+    public int getSelectedAnswer() {
+        return selectedAnswer;
+    }
+
+    public void setSelectedAnswer(int selectedAnswer) {
+        this.selectedAnswer = selectedAnswer;
     }
 }

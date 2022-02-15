@@ -5,27 +5,19 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/colorBackground"
-    android:padding="16dp"
+    android:padding="0dp"
     tools:context="com.example.myawesomequiz.activities.main.StartingScreenActivity">
 
     <TextView
+        android:id="@+id/previous_papers_heading"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="30dp"
-        android:text="My Awesome Quiz"
+        android:text="Previous Years' Papers"
         android:textColor="@android:color/black"
-        android:textSize="35sp" />
+        android:textSize="25sp" />
 
-    <TextView
-        android:id="@+id/text_view_highscore"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_above="@id/button_start_quiz"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="32dp"
-        android:text="Highscore: 0"
-        android:textSize="20sp" />
 
     <Button
         android:id="@+id/button_start_quiz"
@@ -34,4 +26,19 @@
         android:layout_centerInParent="true"
         android:text="Start Quiz" />
 
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/previous_papers_heading"
+        android:orientation="vertical">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:nestedScrollingEnabled="false"
+            android:overScrollMode="never" />
+
+    </LinearLayout>
 </RelativeLayout>

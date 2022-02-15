@@ -6,11 +6,13 @@ import android.view.View;
 import android.widget.Button;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.myawesomequiz.activities.quiz.QuizActivity;
 import com.example.myawesomequiz.R;
+import com.example.myawesomequiz.activities.quiz.QuizActivity;
 
 public class StartingScreenActivity extends AppCompatActivity {
+    RecyclerView recyclerView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,10 +26,12 @@ public class StartingScreenActivity extends AppCompatActivity {
                 startQuiz();
             }
         });
+
     }
 
     private void startQuiz() {
         Intent intent = new Intent(StartingScreenActivity.this, QuizActivity.class);
         startActivity(intent);
     }
+
 }
