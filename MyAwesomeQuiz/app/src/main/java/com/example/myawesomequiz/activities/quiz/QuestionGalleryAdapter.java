@@ -126,8 +126,11 @@ public class QuestionGalleryAdapter
     onBindViewHolder(final QuestionViewHolder viewHolder,
                      final int position)
     {
+        viewHolder.textViewQuestionType.setText(questionList.get(position).getQtype() +" " +
+                questionList.get(position).getQtype_value());
         viewHolder.textViewQuestionStatement
-                .setText(questionList.get(position).getQuestion());
+                .setText("Q." +questionList.get(position).getQno() + " "
+                        + questionList.get(position).getQuestion());
         viewHolder.rb1
                 .setText(questionList.get(position).getOption1());
         viewHolder.rb2
@@ -137,13 +140,18 @@ public class QuestionGalleryAdapter
         viewHolder.rb4
                 .setText(questionList.get(position).getOption4());
 
-        Log.d("QuestionAdapter >>" , "Answer selected: " + questionList.get(position).getSelectedAnswer());
+        viewHolder.text_view_explanation.setText(questionList.get(position).getExplanation());
+
+        Log.d("QuestionAdapter >>" , "Explanation >>>>" + questionList.get(position).getExplanation());
 
         /*
         RecyclerView recycles views. Earlier selected view can be used to show the offscreen item(question with
         different data). Problem: Different data but the preselected options in the recycled view.
         Following part addressed this problem.
          */
+
+        viewHolder.hiddenView.setVisibility(View.GONE);
+
         int selectedAnswer = questionList.get(position).getSelectedAnswer();
         int questionNumber = position;
         if (selectedAnswer == -1) { // no option selected yet

@@ -2,19 +2,26 @@ package com.example.myawesomequiz.activities.quiz;
 // ViewHolder code for RecyclerView
 
 
+import android.transition.AutoTransition;
+import android.transition.TransitionManager;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageButton;
+import android.widget.LinearLayout;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.TextView;
 
+import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.myawesomequiz.R;
 
 public class QuestionViewHolder
         extends RecyclerView.ViewHolder implements View.OnClickListener {
+    TextView textViewQuestionType;
+    TextView text_view_explanation;
     TextView textViewQuestionStatement;
     RadioGroup rbGroup;
 
@@ -23,6 +30,9 @@ public class QuestionViewHolder
     RadioButton rb3;
     RadioButton rb4;
 
+    LinearLayout hiddenView;
+    CardView cardView;
+
     private OptionSelectionListener listener;
 
     QuestionViewHolder(View questionView, OptionSelectionListener listener)
@@ -30,6 +40,7 @@ public class QuestionViewHolder
         super(questionView);
 
         this.listener = listener;
+        textViewQuestionType = questionView.findViewById(R.id.text_view_question_type);
         textViewQuestionStatement = questionView.findViewById(R.id.text_view_question_statement);
         rbGroup = questionView.findViewById(R.id.radio_group);
 
@@ -42,6 +53,13 @@ public class QuestionViewHolder
         rb2.setOnClickListener(this);
         rb3.setOnClickListener(this);
         rb4.setOnClickListener(this);
+
+
+        cardView = questionView.findViewById(R.id.base_cardview);
+        hiddenView = questionView.findViewById(R.id.hidden_view);
+        text_view_explanation = questionView.findViewById(R.id.text_view_explanation);
+
+        cardView.setOnClickListener(this);
     }
 
 
@@ -61,6 +79,30 @@ public class QuestionViewHolder
                 break;
             case R.id.radio_button4:
                 listener.onSelectionOption4(btnSelected,questionNumber,4);
+                break;
+            case R.id.base_cardview:
+                // If the CardView is already expanded, set its visibility
+                //  to gone and change the expand less icon to expand more.
+                if (hiddenView.getVisibility() == View.VISIBLE) {
+
+                    // The transition of the hiddenView is carried out
+                    //  by the TransitionManager class.
+                    // Here we use an object of the AutoTransition
+                    // Class to create a default transition.
+                    TransitionManager.beginDelayedTransition(cardView,
+                            new AutoTransition());
+                    hiddenView.setVisibility(View.GONE);
+                }
+
+                // If the CardView is not expanded, set its visibility
+                // to visible and change the expand more icon to expand less.
+                else {
+
+                    TransitionManager.beginDelayedTransition(cardView,
+                            new AutoTransition());
+                    hiddenView.setVisibility(View.VISIBLE);
+                }
+
                 break;
             default:
                 break;

@@ -64,12 +64,17 @@ public class QuizDBAdapter {
             if (c.moveToFirst()) {
                 do {
                     Question question = new Question();
+                    question.setId(Integer.parseInt(c.getString(c.getColumnIndex(QuizContract.QuestionsTable.COLUMN_ID))));
+                    question.setQno(Integer.parseInt(c.getString(c.getColumnIndex(QuizContract.QuestionsTable.COLUMN_QUE_NUMBER))));
+                    question.setQtype(c.getString(c.getColumnIndex(QuizContract.QuestionsTable.COLUMN_QUE_TYPE)));
+                    question.setQtype_value(Integer.parseInt(c.getString(c.getColumnIndex(QuizContract.QuestionsTable.COLUMN_QUE_TYPE_VALUE))));
                     question.setQuestion(c.getString(c.getColumnIndex(QuizContract.QuestionsTable.COLUMN_QUESTION)));
                     question.setOption1(c.getString(c.getColumnIndex(QuizContract.QuestionsTable.COLUMN_OPTION1)));
                     question.setOption2(c.getString(c.getColumnIndex(QuizContract.QuestionsTable.COLUMN_OPTION2)));
                     question.setOption3(c.getString(c.getColumnIndex(QuizContract.QuestionsTable.COLUMN_OPTION3)));
                     question.setOption4(c.getString(c.getColumnIndex(QuizContract.QuestionsTable.COLUMN_OPTION4)));
                     question.setCorrectAnswer(c.getString(c.getColumnIndex(QuizContract.QuestionsTable.COLUMN_ANSWER)).trim().toCharArray()[0]);
+                    question.setExplanation(c.getString(c.getColumnIndex(QuizContract.QuestionsTable.COLUMN_EXPLANATION)));
                     questionList.add(question);
                 } while (c.moveToNext());
             }
