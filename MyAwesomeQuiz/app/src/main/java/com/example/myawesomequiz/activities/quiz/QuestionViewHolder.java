@@ -20,6 +20,7 @@ import com.example.myawesomequiz.R;
 
 public class QuestionViewHolder
         extends RecyclerView.ViewHolder implements View.OnClickListener {
+    Button btn_explanation;
     TextView textViewQuestionType;
     TextView text_view_explanation;
     TextView textViewQuestionStatement;
@@ -40,7 +41,6 @@ public class QuestionViewHolder
         super(questionView);
 
         this.listener = listener;
-        textViewQuestionType = questionView.findViewById(R.id.text_view_question_type);
         textViewQuestionStatement = questionView.findViewById(R.id.text_view_question_statement);
         rbGroup = questionView.findViewById(R.id.radio_group);
 
@@ -55,11 +55,11 @@ public class QuestionViewHolder
         rb4.setOnClickListener(this);
 
 
-        cardView = questionView.findViewById(R.id.base_cardview);
-        hiddenView = questionView.findViewById(R.id.hidden_view);
+        btn_explanation = questionView.findViewById(R.id.btn_explanation);
+        hiddenView = questionView.findViewById(R.id.hidden_view_explanation);
         text_view_explanation = questionView.findViewById(R.id.text_view_explanation);
 
-        cardView.setOnClickListener(this);
+        btn_explanation.setOnClickListener(this);
     }
 
 
@@ -80,7 +80,7 @@ public class QuestionViewHolder
             case R.id.radio_button4:
                 listener.onSelectionOption4(btnSelected,questionNumber,4);
                 break;
-            case R.id.base_cardview:
+            case R.id.btn_explanation:
                 // If the CardView is already expanded, set its visibility
                 //  to gone and change the expand less icon to expand more.
                 if (hiddenView.getVisibility() == View.VISIBLE) {
@@ -89,7 +89,7 @@ public class QuestionViewHolder
                     //  by the TransitionManager class.
                     // Here we use an object of the AutoTransition
                     // Class to create a default transition.
-                    TransitionManager.beginDelayedTransition(cardView,
+                    TransitionManager.beginDelayedTransition(hiddenView,
                             new AutoTransition());
                     hiddenView.setVisibility(View.GONE);
                 }
@@ -98,7 +98,7 @@ public class QuestionViewHolder
                 // to visible and change the expand more icon to expand less.
                 else {
 
-                    TransitionManager.beginDelayedTransition(cardView,
+                    TransitionManager.beginDelayedTransition(hiddenView,
                             new AutoTransition());
                     hiddenView.setVisibility(View.VISIBLE);
                 }

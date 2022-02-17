@@ -37,8 +37,6 @@ public class QuizActivity extends AppCompatActivity {
         Log.d(TAG, "columnName: " + columnName + " columnValue: "+ columnValue);
 
 
-        ActionBar actionBar = getSupportActionBar();
-        actionBar.setTitle(columnValue.replaceAll("-", " "));
 
 
         QuizDBAdapter mDbHelper = new QuizDBAdapter(this);
@@ -46,8 +44,9 @@ public class QuizActivity extends AppCompatActivity {
         mDbHelper.open();
 
         questionList = mDbHelper.getTestData(columnName,columnValue);
-
         questionCountTotal = questionList.size();
+        ActionBar actionBar = getSupportActionBar();
+        actionBar.setTitle(columnValue.replaceAll("-", " ") + " " + "(" + questionCountTotal + " Qs)");
 
 
         recyclerView  = (RecyclerView)findViewById(

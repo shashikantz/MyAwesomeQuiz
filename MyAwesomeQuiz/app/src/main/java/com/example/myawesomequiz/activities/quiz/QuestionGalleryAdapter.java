@@ -2,6 +2,7 @@ package com.example.myawesomequiz.activities.quiz;
 
 import android.content.Context;
 import android.graphics.Color;
+import android.text.Html;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -126,8 +127,6 @@ public class QuestionGalleryAdapter
     onBindViewHolder(final QuestionViewHolder viewHolder,
                      final int position)
     {
-        viewHolder.textViewQuestionType.setText(questionList.get(position).getQtype() +" "
-                + questionList.get(position).getQtype_value());
         viewHolder.textViewQuestionStatement
                 .setText("Q." +questionList.get(position).getQno() + " "
                         + questionList.get(position).getQuestion()
@@ -142,7 +141,7 @@ public class QuestionGalleryAdapter
         viewHolder.rb4
                 .setText(questionList.get(position).getOption4());
 
-        viewHolder.text_view_explanation.setText(questionList.get(position).getExplanation());
+        viewHolder.text_view_explanation.setText(Html.fromHtml(questionList.get(position).getExplanation()));
 
         Log.d("QuestionAdapter >>" , "Explanation >>>>" + questionList.get(position).getExplanation());
 
