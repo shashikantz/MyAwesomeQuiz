@@ -19,7 +19,7 @@ public class StartingScreenActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_starting_screen);
 
-        Button buttonStartQuiz = findViewById(R.id.button_start_quiz);
+        Button buttonStartQuiz = findViewById(R.id.btn_quiz_2021);
         buttonStartQuiz.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
