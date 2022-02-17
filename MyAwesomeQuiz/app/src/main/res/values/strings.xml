@@ -1,5 +1,61 @@
 <resources>
     <string name="app_name">Awesome IAS Quiz</string>
-    <!-- Strings used for fragments for navigation -->
+    <!-- Strings used for Spinner of Previous Years-->
+    <string-array name="previous_years">
+        <item>Prelims 2021</item>
+        <item>Prelims 2020</item>
+        <item>Prelims 2019</item>
+        <item>Prelims 2018</item>
+        <item>Prelims 2017</item>
+        <item>Prelims 2016</item>
+        <item>Prelims 2015</item>
+        <item>Prelims 2014</item>
+        <item>Prelims 2013</item>
+        <item>Prelims 2012</item>
+        <item>Prelims 2011</item>
+        <item>Prelims 2010</item>
+        <item>Prelims 2009</item>
+        <item>Prelims 2008</item>
+        <item>Prelims 2007</item>
+        <item>Prelims 2006</item>
+        <item>Prelims 2005</item>
+        <item>Prelims 2004</item>
+        <item>Prelims 2003</item>
+        <item>Prelims 2002</item>
+        <item>Prelims 2001</item>
+        <item>Prelims 2000</item>
+        <item>Prelims 1999</item>
+        <item>Prelims 1998</item>
+        <item>Prelims 1997</item>
+        <item>Prelims 1996</item>
+        <item>Prelims 1995</item>
+        <item>Prelims 1994</item>
+        <item>Prelims 1993</item>
+        <item>Prelims 1992</item>
+        <item>Prelims 1991</item>
+    </string-array>
 
+    <!-- Strings used for Spinner of Question topics-->
+    <string-array name="question_topics">
+        <item>Modern History</item>
+        <item>Medieval History</item>
+        <item>Ancient History</item>
+        <item>Art and Culture</item>
+        <item>Physical Geography</item>
+        <item>Social Geography</item>
+        <item>Economic Geography</item>
+        <item>Constitution</item>
+        <item>Governance</item>
+        <item>India And The World</item>
+        <item>Fundamentals Of Economics</item>
+        <item>Banking And Finance</item>
+        <item>Agriculture</item>
+        <item>Growth And Development</item>
+        <item>International Economics</item>
+        <item>Science And Technology</item>
+        <item>Environment</item>
+        <item>Current Affairs</item>
+        <item>General Knowledge</item>
+        <item>Aptitude</item>
+    </string-array>
 </resources>

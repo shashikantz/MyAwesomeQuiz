@@ -16,7 +16,7 @@ import com.example.myawesomequiz.models.QuizContract;
 
 public class QuizDBAdapter {
 
-    protected static final String TAG = "DataAdapter";
+    protected static final String TAG = "QuizDBAdapter";
 
     private final Context mContext;
     private SQLiteDatabase mDb;
@@ -54,18 +54,20 @@ public class QuizDBAdapter {
     }
 
     @SuppressLint("Range")
-    public List<Question> getTestData() {
-        List<Question> questionList = new ArrayList<>();
-
+    public List<Question> getTestData(String columnName, String columnValue) { List<Question> questionList = new ArrayList<>();
 
         try {
-            Cursor c = mDb.rawQuery("SELECT * FROM " + QuizContract.QuestionsTable.TABLE_NAME + " limit 100", null);
+            String sqlQuery = "SELECT * FROM " + QuizContract.QuestionsTable.TABLE_NAME + " "
+                    + "WHERE " + columnName + " = " + "'" + columnValue + "'" + " "
+                    + "ORDER BY " + QuizContract.QuestionsTable.COLUMN_QUE_TYPE_VALUE + " DESC";
+            Log.d(TAG, "getTestData >> sqlQuery: " + sqlQuery );
+            Cursor c = mDb.rawQuery(sqlQuery, null);
 
             if (c.moveToFirst()) {
                 do {
                     Question question = new Question();
                     question.setId(Integer.parseInt(c.getString(c.getColumnIndex(QuizContract.QuestionsTable.COLUMN_ID))));
-                    question.setQno(Integer.parseInt(c.getString(c.getColumnIndex(QuizContract.QuestionsTable.COLUMN_QUE_NUMBER))));
+                    question.setQno(c.getPosition() + 1);
                     question.setQtype(c.getString(c.getColumnIndex(QuizContract.QuestionsTable.COLUMN_QUE_TYPE)));
                     question.setQtype_value(Integer.parseInt(c.getString(c.getColumnIndex(QuizContract.QuestionsTable.COLUMN_QUE_TYPE_VALUE))));
                     question.setQuestion(c.getString(c.getColumnIndex(QuizContract.QuestionsTable.COLUMN_QUESTION)));

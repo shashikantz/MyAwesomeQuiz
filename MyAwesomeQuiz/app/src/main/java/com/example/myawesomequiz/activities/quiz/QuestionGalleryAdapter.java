@@ -126,11 +126,13 @@ public class QuestionGalleryAdapter
     onBindViewHolder(final QuestionViewHolder viewHolder,
                      final int position)
     {
-        viewHolder.textViewQuestionType.setText(questionList.get(position).getQtype() +" " +
-                questionList.get(position).getQtype_value());
+        viewHolder.textViewQuestionType.setText(questionList.get(position).getQtype() +" "
+                + questionList.get(position).getQtype_value());
         viewHolder.textViewQuestionStatement
                 .setText("Q." +questionList.get(position).getQno() + " "
-                        + questionList.get(position).getQuestion());
+                        + questionList.get(position).getQuestion()
+        + "(" + questionList.get(position).getQtype() + " " + questionList.get(position).getQtype_value() + ")");
+
         viewHolder.rb1
                 .setText(questionList.get(position).getOption1());
         viewHolder.rb2
