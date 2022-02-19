@@ -1,0 +1,1954 @@
+﻿Consider the following statements:
+1. Agricultural soils release nitrogen oxides into environment.
+2. Cattle release ammonia into environment.
+3. Poultry industry releases reactive nitrogen compounds into environment.
+Which of the statements given above is/are correct?
+(a) 1 and 3 only
+(b) 2 and 3 only
+(c) 2 only
+(d) 1, 2 and 3
+Correct Option: D
+Explanation:
+Statement 1 is correct:
+Nitrous oxide is emitted into the atmosphere as a result of biomass burning, and biological
+processes in soils. Biomass burning is not only an instantaneous source of nitrous oxide, but it 
+results in a longer term enhancement of the biogenic production of this gas.
+The current belief is that 90% of the emissions come from soils. Nitrous oxide is formed in soils 
+during the microbiological processes nitrification and denitrification. Because nitrous oxide is a 
+gas it can escape from soil during these transformations. Nitrous oxide production is controlled by 
+temperature, pH, water holding capacity of the soil, irrigation practices, fertilizer rate, tillage 
+practice, soil type, oxygen concentration, availability of carbon, vegetation, land use practices 
+and use of chemicals. Nitrous oxide emissions from agricultural soils are increased by the addition 
+of fertilizer.
+Statement 2 is correct:
+Cattle release both ammonia and methane into the atmosphere. Ruminant animals do not efficiently 
+utilize dietary nitrogen. Excess nitrogen fed in the form of feed proteins is excreted in manure 
+(urine + feces). Dairy cows on average secrete in milk 25 to 35 percent of the nitrogen they 
+consume and almost all the remaining nitrogen is excreted in urine and feces with about half of the 
+nitrogen excreted in urine.
+Statement 3 is correct:
+Nitrogen emissions in chicken production occur in several forms but mainly ammonia can contribute 
+directly or indirectly to several environmental and public health hazards. Chicken production also 
+contributes to some extent to climate change through the emissions of nitrous oxide, fine 
+particulate matters, and methane.
+
+What is common to the places known as Aliyar, Isapur and Kangsabati?
+(a) Recently discovered uranium deposits
+(b) Tropical rain forests
+(c) Underground cave systems
+(d) Water reservoirs
+Correct Option: D
+Explanation:
+*  These are water reservoirs of national importance.
+•  Aliyar Dam: Aliyar Dam is a charming location surrounded by Annamali Hills with wonderful 
+natural views. It is located between Pollachi and Valparai.At a distance of 64 Kms from Coimbatore, 
+24 Kms from Pollachi & 545 Kms from Chennai.Built across Aliyar River between 1959 and 1969, the 
+primary purpose of the dam is to support irrigation for Pollachi and nearby places for Agriculture 
+purpose. The height of the dam is 81 meters. There is a well-maintained park built at bottom of the 
+Dam. The view of the Anamalai range around the reservoir is a feast for the eyes and the view of 
+the coconut groves from top of the dam is amazing. Boating is available here.
+•   Isapur Dam: Isapur Dam is one of the biggest dam in the state of Maharashtra, build over the 
+Painganga River that divides Maharashtra into two regions namely; Marathwada and Vidarbha regions. 
+It is an earth fil1 dam, with a height of 57 m, and the length is 4,120.1 m. The motive behind the 
+construction of the Dam was mainly irrigation. Lush with water, Isapur Dam is a prominent tourist 
+attraction cradled in the lap of mother nature. Blessed with pristine scenery, it is an incredible 
+place for the keen bird watchers to stay around and get mesmerized by the sweet calls of the 
+colorful birds around, especially during winters. While the immense greenery around the dam makes 
+it a perfect background for the picnic or sightseeing.
+•   Kangsabati Reservoir Project: Kangsabati Reservoir Project was started in the year 1956-57. 
+Till date an irrigation potential of 3,48,477 ha. has been created in the districts of Bankura, 
+Midnapore and Hooghly through this Project. With bank assistance and under Accelerated Irrigation 
+Benefit Programme, the Government has undertaken large extension and improvement programme of the 
+main canals. The project though originally planned for Kharif and limited Rabi, at present the 
+irrigation water is provided for Boro cultivation also to an area of 27,944 ha.
+
+In the context of proposals to the use of hydrogen-enriched CNG (H-CNG) as fuel for buses in public transport, consider the following statements:
+1.  The main advantage of the use of H-CNG is the elimination of carbon monoxide emissions.
+2. H-CNG as fuel reduces carbon dioxide and hydrocarbon emissions.
+3.  Hydrogen up to one-fifth by volume can be blended with CNG as fuel for buses.
+4. H-CNG makes the fuel less expensive than CNG.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 and 3 only
+(c) 4 only
+(d) 1, 2, 3 and 4
+Correct Option: B
+Explanation:
+*  Statement 1 is incorrect: H-CNG reduces the emission of Carbon Monoxide up to 70% but does not 
+eliminate it.
+*   Statement 2 is correct: H-CNG as a fuel reduces the emission of carbon-di-oxide and hydrocarbon 
+as compared to other fuels. Compared with natural gas, HCNG has many advantages when it comes to 
+performance. Research has shown that the brake effective thermal efficiency increases with an 
+increased percentage of hydrogen. Another effect of the addition of hydrogen is that the brake 
+specific fuel consumption is reduced, the cycle by cycle variations are also reduced, and the 
+thermal efficiency is increased.
+G      Emissions can also be improved with the addition of hydrogen. Compared to pure natural gas, 
+HCNG reduces the HC emissions, which is in part due to the increased combustion stability that 
+comes with the addition of hydrogen. However, due to the increased temperature and combustion 
+duration that accompanies the hydrogen addition, an increase in NOx emissions is observed.
+*   Statement 3 is correct: Compressed Natural Gas (CNG) is methane (CH4) stored at high pressure. 
+CNG as a fuel can be used in place of gasoline, diesel fuel and propane (C3H8) / LPG  and its 
+combustion produces fewer undesirable gases then the other mentioned fuels. Combustion is a high 
+temperature exothermic chemical reaction between a fuel and an oxidant that produces oxidized 
+products. When 18-20% of hydrogen as fuel is mixed into the CNG it becomes pollution free as it reduces the emission
+of carbon-monoxide up to 20%.
+*   Statement 4 is incorrect: Current cost of H2 is more than the cost of Natural Gas. Therefore, 
+HCNG's cost is more than CNG. Current price of HCNG is higher than CNG and will cost 72 paisa per 
+kilometer more if implemented in DTC buses.
+
+Why are dewdrops riot formed on a cloudy night?
+(a) Clouds absorb the radiation released from the Earth's surface.
+(b) Clouds reflect back the Earth's radiation.
+(c) The Earth's surface would have low temperature on cloudy nights.
+(d) Clouds deflect the blowing wind to ground level.
+Correct Option: B
+Explanation:
+Dew: Dew is the water droplets formed by condensation of water vapor on a relatively cold surface 
+of an object. It forms when the temperature of an object drops below the dew point temperature.
+When there is cloudy weather condition, terrestrial radiation is radiated back to the earth's 
+surface after reflection from clouds. This leads to formation of hothouse (Greenhouse) condition 
+due to which temperature on earth's surface is relatively higher. Hence, condition becomes 
+unfavorable for the formation of dew.
+
+Consider the following statements :
+1.  The 44th Amendment to the Constitution of India introduced an Article placing the election of the Prime Minister beyond judicial review.
+2.  The Supreme Court of India struck down the 99th Amendment to the Constitution of India as being violative of the independence of judiciary.
+Which of the statements given above is/are correct ?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Correct Option: B
+Explanation:
+44th amendment didn't provide for Article placing the election of the Prime Minister beyond judicial review.
+*   99th amendment was declared null and void for violating independence of judiciary by bringing 
+in executive in selection process of judges.
+
+Consider the following statements:
+1.  The motion to impeach a Judge of the Supreme Court of India cannot be rejected by the Speaker of the Lok Sabha as per the Judges (Inquiry) Act, 1968.
+2.  The Constitution of India defines and gives details of what constitutes 'incapacity and proved misbehaviour' of the Judges of the Supreme Court of India.
+3.  The details of the process of impeachment of the Judges of the Supreme Court of India are given 
+in the Judges (Inquiry) Act, 1968.
+4.  If the motion for the impeachment of a Judge is taken up for voting, the law requires the motion to be backed by each House of the Parliament and supported by a majority of total membership
+of that House and by not less than two-thirds of total members of that House present and voting.
+Which of the statements given above is/are correct?
+(a) l and 2
+(b) 3 only
+(c) 3 and 4 only
+(d) 1, 3 and 4
+Correct Option: C
+Explanation:
+*   Only 3 and 4 are correct.
+Speaker can refuse to accept the motion (Laxmikanth: Supreme Court). Incapacity and proved 
+misbehavior haven't been defined.
+
+The Ninth Schedule was introduced in the Constitution of India during the prime ministership of
+(a) Jawaharlal Nehru
+(b) Lal Bahadur Shastri
+(c) Indira Gandhi
+(d) Morarji Desai
+Correct Option: A
+Explanation:
+*  Ninth Schedule was introduced by 1st constitutional amendment and this was under reign of Nehru.
+
+Consider the following statements:
+1.  Coal sector was nationalized by the Government of India under Indira Gandhi.
+2. Now, coal blocks are allocated on lottery basis.
+3.  Till recently, India imported coal to meet the shortages of domestic supply, but now India is self- sufficient in coal production.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 and 3 only
+(c) 3 only
+(d) 1, 2 and 3
+Correct Option: A
+Explanation:
+*   Statement 1 is Correct, as the Indira Gandhi administration nationalized coal mining in phases 
+— coking coal mines in 1971-72 and non-coking coal mines in 1973. With the enactment of the Coal 
+Mines (Nationalization) Act, 1973, all coal mines in India were nationalized on 1 May 1973.
+*   Statement 2 is Incorrect, as under the new policy, mines will be auctioned to the firm offering 
+the highest per tonne price.
+*   Statement 3 is Incorrect, as due to high demand and poor average quality, India is forced to 
+import high quality coal to meet the requirements of steel plants. India's coal imports have risen 
+from 49.79 million metric tons (0.05488 billion short tons) in 2007—08 to 190.95 million metric 
+tons (0.21049 billion short tons) in 2016—17.
+
+9.  Consider the following statements:
+1.  The Parliament (Prevention of Disqualification)Act, 1959 exempts several posts from disqualification on the grounds of 'Office of Profit'.
+2. The above-mentioned Act was amended five times.
+3.  The term 'Office of Profit' is well- defined in the Constitution of India.
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 3 only
+(c) 2 and 3 only
+(d) 1, 2 and 3
+Correct Option: A
+Explanation:
+*  Statement 1 is correct: Article 102 of the Constitution provides that a person shall be 
+disqualified from being chosen as a Member of Parliament (MP) if he holds an office of profit under 
+the government of India or the government of a state. However, Parliament can declare by law that 
+the holding of certain offices will not incur this disqualification. The Parliament (Prevention of 
+Disqualification) Act, 1959 lists certain offices of profit under the central and state 
+governments, which do not disqualify the holders from being an MP. The Chairperson of the National 
+Commission for Scheduled Castes and Scheduled Tribes is exempted from disqualification as per this 
+list.
+*  Statement 2 is correct: The Parliament (Prevention of Disqualification) Act, 1959 was amended 
+five times.
+*   Statement 3 is incorrect: Office of profit is a position in government which cannot be held by 
+Member of Legislative Assembly (MLA) or Member of Parliament (MP). The post can yield salaries, 
+perquisites and other benefits. It has not been defined in Constitution or Representation of the 
+People Act, 1951.
+
+Under which Schedule of the Constitution of India can the transfer of tribal land to private parties for mining be declared null and void?
+(a) Third Schedule
+(b) Fifth Schedule
+(c) Ninth Schedule
+(d) Twelfth Schedule
+Correct Option: B
+Explanation:
+Fifth Schedule
+*   The key objective is to provide protection to the tribals living in the Scheduled Areas from 
+alienation of their lands and natural resources to non-tribals.
+      In  these areas, the Governor has been given plenary powers as far as their administration
+is concerned.
+*   Option (b) is correct: Under this schedule the transfer of tribal land to private parties for 
+mining be declared null and void
+The executive power of the Union extends to the giving of directions to the State as to the 
+administration of these areas.
+*   Governor of these states need make report to the President annually or as needed by President 
+regarding the administration of the Scheduled Areas in that State.
+
+Recently, there was a growing awareness in our country about the importance of Himalayan nettle (Girardinia diversifolia) because it is found to be a sustainable source of
+(a) anti-malarial drug
+(b) biodiesel
+(c) pulp for paper industry
+(d) textile fibre
+Correct Option: D
+Explanation:
+Himalayan Nettle
+*  Option (d) is correct: Girardinia diversifolia (Himalayan nettle), a fibre-yielding plant, is 
+found to be a sustainable source of Textile fibre.
+*   It has become an important livelihood option for people living in the remote mountainous 
+villages of the Hindu Kush Himalaya.
+*  There is a community in Khar, a hamlet in Darchula district in far-western Nepal, which produces 
+fabrics from Himalayan nettle.
+*   The fabric and the things made from it are sold in local as well as national and international 
+markets as high-end products.
+
+For  the  measurement/estimation of  which of the following are satellite  images/ remote sensing data used?
+1. Chlorophyll content in the vegetation of a specific location
+2. Greenhouse gas emissions from rice paddies of a specific location
+3. Land surface temperatures of a specific location
+Select the correct answer using the code given below.
+(a) 1 only
+(b) 2 and 3 only
+(c) 3 only
+(d) 1, 2 and 3
+Correct Option: D
+Explanation:
+    For the measurement/estimation of the following are satellite images/remote sensing data is
+used:
+•   Statement 1 is correct: Chlorophyll content in the vegetation of a specific location is 
+estimated by using Multispectral Satellite Imagery.
+•   Statement 2 is correct: Greenhouse gas emissions from rice paddies of a specific location.
+•  Statement 3 is correct: Land surface temperatures of a specific location. Land surface 
+temperature (LST) is of fundamental importance to many aspects of the geoseiences, for example, net 
+radiation budget at the Earth surface, monitoring state of crops and vegetation, as well as an 
+important indicator of both the greenhouse effect and the physics of land-surface processes at 
+local through global scales. Satellite LST measurements provide unique data sources for regional 
+and global coverage in fairly good temporal, spatial resolution, and time span. Therefore, LST is 
+one of the baseline products in both Joint Polar-orbiting Satellite System (JPSS) and Geostationary 
+Operational Environmental Satellite-R Series (GOES-R) satellite missions.
+
+Consider the following States :
+1. Chhattisgarh
+2. Madhya Pradesh
+3. Maharashtra
+4. Odisha
+With reference to the States mentioned above, in terms of percentage of forest cover to the total area of State, which one of the following is the correct ascending order?
+(a) 2-3-1-4
+(b) 2-3-4-1
+(c) 3-2-4-1
+(d) 3-2-1-4
+Correct Option: C
+Explanation:
+    Following are the percentage of forest area of the four states, according to Indian state of
+forest report, 2017:
+Sltate Chhattisgarh Madhya Pradesh Maharashtra Odisha
+Percentage of forest area 41.09% 25.11 % 16.47% 32.98%
+
+Which of the following statements are correct about the deposits of 'methane hydrate'?
+1.  Global warming might trigger the release of methane gas from these deposits.
+2.  Large deposits of 'methane hydrate' arc found in Arctic Tundra and under the seafioor.
+3. Methane in atmosphere oxidizes to carbon dioxide after a decade or two.
+Select the correct answer using the code given below:
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+Correct Option: D Explanation:
+Methane Hydrate
+*   Statement 1 is correct: Scientists concerned that global warming may release huge stores of 
+methane from reservoirs beneath Arctic tundra and deposits of marine hydrates -- a theory known as 
+the "clathrate gun" hypothesis -- have turned to geologic history to search for evidence of 
+significant methane release during past warming events.
+*   Statement 2 is correct: Vast amounts of methane hydrate are buried in sediments on the 
+continental shelves and slopes. Four different kinds of geological settings have the temperature 
+and pressure conditions suitable for the formation and stability of methane hydrates:
+•  Sediment and sedimentary rock units below Arctic permafrost
+•  Sedimentary deposits along continental margins
+•  Deep-water sediments of inland lakes and seas, and
+•  Under the Antarctic ice.
+*   Statement 3 is correct: Methane in atmosphere oxidizes to carbon dioxide after a decade or two.
+
+Consider the following :
+1. Carbon monoxide
+2. Methane
+3. Ozone
+4. Sulphur dioxide
+Which of the above are released into atmosphere due to the burning of crop/biomass residue?
+(a) 1 and 2 only
+(b) 2, 3 and 4 only
+(c) 1 and 4 only
+(d) 1, 2, 3 and 4
+Correct Option: D
+Explanation:
+*  From- Review Paper Emissions from Crop/Biomass Residue Burning Risk to Atmospheric Quality: it 
+may be safely concluded that crop residuefbiomass residue burning not only emits poisonous gases 
+such as 502, CH4, CO2, CO, N2O, NOx, NO, NO2, OC, BC, TC, NMHCs, SVOCs, VOCs, 03 etc; but also
+influences the quality of environment at large. (Page 27)
+http://www.isca.in/EARTH_SCI/Archive/v1/i1/4.ISCA-IRJES-2013-005.pdf
+
+Consider the following pairs:
+sea                     Bordering country
+1.  Adriatic Sea              Albania
+2.  Black Sea               Croatia
+3.  Caspian Sea             Kazakhstan
+4.  Mediterranean Sea         Morocco
+5.  Red Sea                Syria
+Which of the pairs given above are correctly matched?
+(a) 1, 2 and 4 only
+(b) 1, 3 and 4 only
+(c) 2 and 5 only
+(d) 1, 2, 3, 4 and 5
+Correct Option: B
+Explanation:
+*   Countries bordering Adriatic sea: The Adriatic Sea is a part of the Mediterranean Sea 
+positioned between the eastern coastline of Italy, and countries of the Balkan Peninsula, from 
+Slovenia, south through Croatia. Montenegro, and to Albania. The southern boundary of the sea ends 
+in the Strait of Otranto between Albania and Italy's Salento Peninsula. Immediately south of that 
+strait the Ionian Sea begins.
+*   Countries bordering Black sea: The Black Sea lies between southeastern Europe and Asia Minor. 
+Excluding its northern arm, the Sea of Azov, the Black Sea occupies about 168,500 square miles 
+(436,400 square kilometers). It is connected to the Aegean Sea through the Bosporus, the Sea of 
+Marmara, and the Dardanelles, and has been of critical importance to regional commerce throughout 
+the ages. This major inland sea is bordered by six countries — Romania and Bulgaria to the west; 
+Ukraine, Russia, and Georgia to the north and east; and Turkey to the south. Additionally, it is 
+impacted by another 10 nations through the five major rivers that empty into the Black Sea, the 
+largest of which is the Danube River.
+*   Countries bordering Capspian sea: The five countries Azerbaijan, Kazakhstan, Russia, 
+Turkmenistan and Iran share their boundary with the Caspian Sea
+*   Countries bordering Mediterranean sea: The countries surrounding the Mediterranean in clockwise 
+order are Spain, France, Monaco, Italy, Slovenia, Croatia, Bosnia and Herzegovina, Montenegro, 
+Albania, Greece, Turkey, Syria, Lebanon, Israel, Egypt, Libya, Tunisia, Algeria, and Morocco; Malta 
+and Cyprus are island countries in the sea.
+*   Countries bordering Red sea: There are six countries (Saudi Arabia, Yemen, Egypt, Sudan, 
+Eritrea, and Djibouti) bordering the Red Sea.
+
+Among the following, which one is the largest exporter of rice in the world in the last five years?
+(a) China
+(b) India
+(c) Myanmar
+(d) Vietnam
+Correct Option: B
+Explanation:
+      India is the largest exporter of rice in the world since the last decade while China is
+largest producer of rice. Below are the 15 countries that exported the highest dollar value worth 
+of rice during 2018.
+•  India: US$7.4 billion (30.1% of total rice exports)
+•  Thailand: $5.6 billion (22.7%)
+•  Vietnam: $2.2 billion (9%)
+•  Pakistan: $2 billion (8.2%)
+•  United States: $1.7 billion (6.9%)
+•  China: $887.3 million (3.6%)
+
+Consider the following pairs :
+Glacier                  River
+1.  Bandarpunch             Yamuna
+2.  Bara Shigri              Chenab
+3.  Milam                 Mandakini
+4.  Siachen                Nubra
+S.  Zemu                 Manas
+Which of the pairs given above are correctly matched?
+(a) 1, 2 and 4
+(b) 1, 3 and 4
+(c) 2 and 5
+(d) 3 and 5
+Correct Option: A
+Explanation:
+Origin Glacier   rivers
+Bandarpunch   Yamuna
+Bara Shigri     Chenab
+Milam        Gori Ganga
+Siachen       Nubra
+Zemu         Teesta
+
+In India, the use of carbofuran, methyl parathion, phorate and triazophos is viewed with apprehension. These chemicals are used as
+(a) pesticides in agriculture
+(b) preservatives in processed foods
+(c) fruit-ripening agents
+(d) moisturising agents in cosmetics
+Correct Option: A
+Explanation:
+In India, the use of carbofuran, methyl parathion, phorate and triazophos
+is viewed with apprehension. These chemicals are used as Pesticides in Agriculture.
+
+Consider the following statements :
+1.  Under Ramsar Convention, it is mandatory on the part of the Government of India to protect and conserve all the wetlands in the territory of India.
+2.  The Wetlands (Conservation and Management) Rules, 2010 were framed by the Government of India based on the recommendations of Ramsar Convention.
+3.  The Wetlands (Conservation and Management) Rules, 2010 also encompass the drainage area or catchment regions of the wetlands as determined by the authority.
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 3 only
+(d) 1, 2 and 3
+Correct Option: C
+Explanation:
+      When a country joins the Ramsar Convention, it gets itself listed into the international
+effort for the conservation and wise use of wetlands. Once a country has joined, there are 
+commitments which it has to fulfil as obligations.
+*   It has to designate at least one of its wetlands into the List of Wetlands of International 
+Importance called "Ramsar List". Once that is done, it can later designate more such wetlands.
+*   Statement 1 is incorrect: The above designation has to be based upon criteria that take into 
+account the ecology, botany, zoology, limnology (freshwater science) or Hydrology. Thus, not every 
+wetland becomes a Ramsar site but only those which have significant values related to these fields.
+*   Statement 3 is correct: The Wetlands (Conservation andManagement) Rules, 2010 also encompass 
+the drainage area or catchment regions of the wetlands as determined by the authority.
+
+Building 'Kalyaana Mandapas' was a notable feature in the temple construction in the kingdom of
+(a) Chalukya
+(b) Chandela
+(c) Rashtrakuta
+(d) Vijayanagara
+Correct Option: D
+Explanation:
+  During period of Vijaynagara empire certain new features were evident in terms of temple
+architecture.
+These were Mandapas and Gopurams.
+•   Mandapas: It meant pavilions and long, pillared corridors that often ran around the shrines 
+within the temple complex. A Kalyana Mandapa, meant to celebrate divine weddings
+•   Gopurams: or royal gateways that often dwarfed the towers on the central shrines, and signalled 
+the presence of the temple from a great distance. They were also probably meant as reminders of the 
+power of kings, able to command the resources, techniques and skills needed to construct these 
+towering gateways.
+
+Consider the following statements:
+1.  In the revenue administration of Delhi Sultanate, the in-charge of revenue collection was known as 'Amil'.
+2.  The Iqta system of Sultans of Delhi was an ancient indigenous institution.
+3.  The office of 'Mir Bakshi' came into existence during the reign of Khalji Sultans of Delhi.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 1 and 2 only
+(c) 3 only
+(d) 1, 2 and 3
+Correct Option: A
+Explanation:
+   Iqta system: Iqta' is an Arabic word meaning an administrative regional unit. It is usually
+considered equivalent to a province. It was initiated by Iltutmish in India.
+*   It had started outside India in Persia (Iran) region and in western Asia. Thus not indigenous.
+*   Office of Mir Bakshi started under Mughal administration. He looked after all matters 
+pertaining to the military administration. The orders of appointment of mansabdars and their salary 
+papers were endorsed and passed by him.
+*   The amalguzar or amil was the revenue collector during Delhi Sultanate. His duty was to assess 
+and supervise the revenue collection. He was expected to increase the land under cultivation and 
+induce the peasants to pay revenue willingly. He used to maintain all accounts and send the daily 
+receipt and expenditure report to the provincial Diwan.
+
+Consider the following statements:
+1. Saint Nimbarka was a contemporary of Akbar.
+2.  Saint Kabir was greatly influenced by Shaikh Ahmad Sirhindi.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Correct Option: D
+Explanation:
+*   Saint nimbarka is believed to have been alive during 11th century. While Akbar 16th century.
+*  Saint Kabir was born in 1440 while Shaikh Ahmad Sirhindi was an Islamic scholar lived later between (1564-1624)
+
+With reference to the British colonial rule in India, consider the following statements:
+1.  Mahatma Gandhi was instrumental in the abolition of the system of 'indentured labour'.
+2.  In Lord Chelmsford's 'War Conference', Mahatma Gandhi did not support the resolution on recruiting Indians for World War.
+3.  Consequent upon the breaking of Salt Law by Indian people, the Indian National Congress was declared illegal by the colonial rulers.
+Which of the statements given above are correct?
+(a) 1 and 2 only
+(b) 1 and 3 only
+(c) 2 and 3 only
+(d) 1, 2 and 3
+Correct Option: B
+Explanation:
+Lord Chelmsford, the then Viceroy of India, invited Gandhi to Delhi at a War Conference. In
+order to gain the trust of the empire, Gandhi agreed to move people to enlist in the army for World 
+War I. However, he wrote to the Viceroy and said that he "personally will not kill or injure 
+anybody, friend or foe".
+  The first agitation that Mahatma Gandhi launched during his days in South Africa was
+against the system of indentured labour. In India, Gokhale, Tilak and others agitated against the 
+practice of sending Indians abroad to labour on sugarcane farms.
+*  Congress was declared illegal during Salt Satyagraha and Gandhiji signed Gandhi-Irwin pact and 
+agreed to attend second RTC.
+
+With reference to Indian National Movement, consider the following pairs:
+Person                  Position Iseld
+1.  Sir Tej Bahadur Sapru        President, All India Liberal Federation
+2.  K.C. Neogy               Member, the Constituent Assembly
+3.  P.C. Joshi                General Secretary, Communist Party of India
+Which of the pairs given above is/are correctly matched?
+(a) 1 only
+(b) 1 and 2 only
+(c) 3 only
+(d) 1, 2 and 3
+Correct Option: D
+Explanation:
+*   Sir Tej Bahadur Sapru: He was an important leader of All India liberal federation and served as 
+its President.
+I   KC Neogy: He was a member of constituent Assembly from West Bengal
+*   PC Joshi: He was the first president of Communist Party of India and remained so for 12 years 
+till 1947.
+
+With reference to Mian Tansen,  which one of the following statements  is not correct?
+(a) Tansen was the title given to him by Emperor Akbar
+(b) Tansen composed Dhrupads on Hindu gods and goddesses.
+(c) Tansen composed songs on his patrons.
+(d) Tansen invented many Ragas.
+Correct Option: A
+Explanation:
+Tansen was the title given to him by Raja Vikramjit of Gwalior.
+Akbar made Tansen as one of the Navaratnas in his court and gave him the title of 'Mian'.
+*   Kalpadruma is a compliation of 300 of his dhrupads that were in Gauhar Bani. Tansen composed in 
+his favourite ragas — Multani, Bhairavi and Todi .
+*   He invented the night raga Darbari Kanhra, morning raga Mian Ki Todi, mid-day raga, Mian ki 
+Sarang, seasonal raga Mian ki Malhar. His descendants and disciples are called Seniyas.
+      He composed many dhrupads on Ganesha, Shiva, Parvati and Rama.
+      He also composed songs on his patrons, eulogizing kings and Akbar
+
+Who  among the following Mughal Emperors shifted emphasis from illustrated manuscripts to album and individual portrait?
+(a) Humayun
+(b) Akbar
+(c) Jahangir
+(d) Shah Jahan
+Correct Option: C
+Explanation:
+*   Jahangir took keen interest in painting. He was a bird and animal lover and patronized 
+paintings of flowers, animals, birds etc. Apart from painting of hunting scenes, court scenes, 
+under him specialized individual portraits were painted in a realistic manner.
+
+Which one of the following National Parks lies completely in the temperate alpine zone?
+(a) Manas National Park
+(b) Namdapha National Park
+(c) Neora Valley National Park
+(d) Valley of Flowers National Park
+Correct Option: D
+Explanation:
+*   Manas National Park: About Grasslands of Terai and Bhabar type cover the half of the Park, the 
+riparian areas have colonizing grasslands and woodlands of several species. The thick woodlands are 
+called Eastern Moist Deciduous Forests of various types. The undergrowths are very thick. There are 
+more than 650 species of Angiosperms alone. The commonly seen trees are the Simul, Oxi, Sissoo, 
+Khaie, Gamari, etc.
+*   Manas is the only landscape in the world where pristine Terai Grasslands are seen merging with 
+the Bhabar grasslands interspersed with diverse habitats ascending to Semi-Evergreen forests and 
+then to Bhutan Himalayas. The Biodiversity is very rich here. The last population of the Pygmy Hog 
+survives in the wilds of Manas and nowhere else in the world.
+*   Namdapha National Park: Namdapha National Park is the largest protected area in the Eastern 
+Himalaya biodiversity hotspot and is located in Arunachal Pradesh in Northeast India. It is also 
+the third largest national park in India in terms of area. It is located in the Eastern Himalayan 
+sub- region and is recognized as one of the richest areas in biodiversity in India. The park 
+harbours the northernmost lowland evergreen rainforests in the world at 27°N latitude. The area is 
+also known for extensive Dipterocarp forests.
+*   Neora Valley National Park: Neora Valley National Park was established in the year of 1986. 
+This park falls in the catchment area of the Neora River. Neora Valley National Park is distinct 
+for its pristine scenic beauty and rich bio-diversity. Due to wide range of altitude variation, the 
+climate condition of the park varies from tropical to temperate or even Sub-alpine in Rachilla 
+Danda area. Its floral diversity is noteworthy with mixed species of rhododendrons, bamboo, sal 
+etc. along with several species of orchids.
+*  Valley of flowers National park: Valley of Flowers is a vibrant and splendid national park 
+reposing in West Himalayas. Nestled in Uttarakhand, this alluring place is famous for its charming 
+meadows of alpine flowers. Endowed with a diverse range of endemic flora, it is picturesque in its 
+beauty. This lush region is also home to some rare and endangered animal species. You may spot 
+animals like Asiatic black deer, snow leopard, musk deer, red fox, brown bear and blue sheep. High 
+in the lofty Himalayas of the Garhwal region sprawls this enchanting valley. Legends believe it to 
+be the place from where Hanuman had collected the Sanjeevani buti for curing Lakshmana. This place 
+has floral pastures, running streams and beautiful backdrop of the mountains.
+
+Atal Innovation Mission is set up under the
+(a) Department of Science and Technology
+(b) Ministry of Labour and Employment
+(c) NITI Aayog
+(d) Ministry of Skill Development and Entrepreneurship
+Correct Option: C
+Explanation:
+*   The Atal Innovation Mission (AIM) is a flagship initiative set up by the NITI Aayog to promote 
+innovation and entrepreneurship across the length and breadth of the country.
+
+On 21st June, the Sun
+(a) does not set below the horizon at the Arctic Circle
+(b) does not set below the horizon at Antarctic Circle
+(c) shines vertically overhead at noon on the Equator
+(d) shines vertically overhead at the Tropic of Capricorn
+Correct Option: A
+Explanation:
+*   The Sun is directly overhead at "high-noon" on the equator twice per year, at the two 
+equinoxes. On the Arctic Circle, the Sun does not set at all on the Summer Solstice which occurs on 
+21st June. On that one day, the Sun traces a complete circle just above the horizon as the Earth 
+rotates.
+
+With reference to Mughal India, what is/are the difference/differences between Jagirdar and Zamindar?
+1.  Jagirdars were holders of land assignments in lieu of judicial and police duties, whereas Zamindars were holders of revenue rights without obligation to perform any duty other than revenue collection.
+2.  Land assignments to Jagirdars were hereditary and revenue rights of Zamindars were not hereditary.
+Select the correct answer using the code given below:
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Correct Option: A
+Explanation:
+Jagirdar and Zamindar
+*   The Jagirdars were the king's officials who enjoyed the land gifted from the King. They were 
+the rank (mansab) holder given by the king called mansabdar.
+*   Statement 2 is incorrect: They were allotted non-inheritable land area equivalent to their fee 
+amount called Jagir. These Jagirs are temporary in character and the Jagirdars only have the right 
+to claim and enjoy the revenue collected from the land.
+The holder of land is termed as the Zamindar. They had the hereditary right over the land to claim 
+share in the peasant's output other than land revenues.
+They also have the right to detain the peasants. In most of the Mughal period the Zamindar 
+collected land revenue from the actual tillers of land and for this they were allowed one tenth of 
+the collections either in cash or an equivalent amount of tax free land.
+*   Statement l is correct: Jagirdars were holders of land assignments in lieu of judicial and 
+police duties, whereas Zamindars were holders of revenue rights without obligation to perform any 
+duty other than revenue collection.
+
+With reference to land reforms in independent India, which one of the following statements is correct?
+(a) The ceiling laws were aimed at family holdings and not individual holdings.
+(b) The major aim of land reforms was providing agricultural land to all the landless.
+(c) It resulted in cultivation of cash crops as a predominant form of cultivation.
+(d) Land reforms permitted no exemptions to the ceiling limits.
+Correct Option: B
+Explanation:
+*  The main objectives of the Land Reforms:
+•   To make redistribution of Land to make a socialistic pattern of society. Such an effort will 
+reduce the inequalities in ownership of land.
+•   Option D is incorrect and Option B is correct: To ensure land ceiling and take away the
+surplus land to be distributed among the small and marginal farmers.
+•  To legitimize tenancy with the ceiling limit.
+•   To register all the tenancy with the village Panchayats.
+•  To establish relation between tenancy and ceiling.
+•  To remove rural poverty.
+•  Proliferating socialist development to lessen social inequality
+•  Empowerment of women in the traditionally male driven society.
+•  To increase productivity of agriculture.
+•   To see that everyone can have a right on a piece of land.
+•   Protection of tribal by not allowing outsiders to take their land.
+
+The Global Competitiveness Report is published by the
+(a) International Monetary Fund
+(b) United Nations Conference on Trade and Development
+(c) World Economic Forum
+(d) World Bank
+Correct Option: C
+Explanation:
+*   The Global Competitiveness Report (GCR) is a yearly report published by the World Economic Forum.
+
+Consider the following statements about 'the Charter Act of 1813'.
+1.  It ended the trade monopoly of the East India Company in India except for trade in tea and trade with China.
+2.  It asserted the sovereignty of the British Crown over the Indian territories held by the Company.
+3.  The revenues of India were now controlled by the British Parliament.
+Which of the statements given above are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+Correct Option: A
+Explanation:
+This Act asserted the Crown's sovereignty over British possessions in India.
+*   Company's rule and trade monopoly in India was extended to another 20 years. Monopoly was ended 
+except for the trade in tea and with China
+*   The Act gave more powers for the courts in India over European British subjects.
+Another important feature of this act was to grant permission to the missionaries to come to India 
+and engage in religious proselytization
+*   The missionaries were successful in getting the appointment of a Bishop for British India with 
+his headquarters at Calcutta in the provisions of the Act.
+*   It allotted Rs 100,000 to promote education in Indian masses and allowed them to open anywhere 
+anytime.
+
+With reference to Swadeshi Movement, consider the following statements:
+1.  It contributed to the revival of the indigenous artisan crafts and industries.
+2.  The National Council of Education was established as a part of Swadeshi Movement.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Correct Option: C
+Explanation:
+*  The National Council of Education (or NCE) was an organization founded by Indian nationalists in 
+Bengal in 1906 to promote science and technology as part of a swadeshi industrialization movement
+*   The Swadeshi had a great impact on handloom industry. There was a revival in handloom, silk 
+weaving, and some other tradition artisan crafts. Cotton mills were set up at this time.
+
+Consider the following pairs:
+Mouement/Organization --- Leader
+1. All India Anti-Untouchability League --- Mahatma Gandhi
+2. All India Kisan Sabha --- Swami Sahajanand Saraswati
+3. Self-Respect Movement  --- E.V. Ramaswami Naicker
+Which of the pairs given above is/are correctly matched?
+(a) 1 only
+(b) 1 and 2 only
+(c) 2 and 3 only
+(d) 1, 2 and 3
+Correct Option: D
+Explanation:
+All India Anti Utouchability League: It was formed by Mahatma Gandhi then later renamed as
+Harijan Sewak Sangh.
+All India Kisan Sabha: It was formed by Sahajanand Saraswati in Lucknow Session of 1936.
+*   Self Respect Movement: EV Ramaswamy Naicker was an important leader of self respect movement in 
+1925. It was an anti caste movement against Brahmanism.
+
+Which one of the following is not a Harappan site?
+(a) Chanhudaro
+(b) Kot Diji
+(c) Sohgaura
+(d) Desalpur
+Correct Option: C
+Explanation:
+*  Sohgaura is not a Harappan site and is situated in Uttar Pradesh. It is famous for it copper 
+inscription written in prakrit in the Brahmi script.
+*   All the other three are Harappan sites. Chanhudaro in Sindh, Pakistan, Kot Diji in Sindh, 
+Pakistan , Desalpur in Gujarat, India
+
+In which of the following relief sculpture inscriptions is 'Ranyo Ashokan' (King Ashoka) mentioned along with the stone portrait of Ashoka?
+(a) Kanganahalli
+(b) Sanchi
+(c) Shahbazgarhi
+(d) Sohgaura
+Correct Option: A
+Explanation:
+*   This site is situated on the left bank of the Bhima river ,2km east of chandrala Parameshwari 
+temple at sannati, Karnataka.
+*  The discoveries of the site included a broken relief sculpture showing a king and queen flanked 
+by female attendants two of whom held up a parasol and fly whisk — symbols of sovereignty — in 
+their hands.
+*   An Inscription in Brahmi read "Ranyo Ashoka" (King Ashoka) leaving no doubt who the central 
+figure was supposed to represent.
+
+Consider the following:
+1. Deification of the Buddha
+2. Treading the path of Bodhisattvas
+3. Image worship and rituals
+Which of the above is/are the feature/features of Mahayana Buddhism?
+(a) 1 only
+(b) 1 and 2 only
+(c) 2 and 3 only
+(d) 1, 2 and 3
+Correct Option: D
+Explanation:
+Features of Mahayana Buddhism
+*   Central to Mahayana ideology is the idea of the bodhisattva, one who seeks to become a Buddha. 
+In contrast to the dominant thinking in non-Mahayana Buddhism, which limits the designation of 
+bodhisattva to the Buddha before his awakening (bodhi), or enlightenment, Mahayana teaches that 
+anyone can aspire to achieve awakening and thereby become a bodhisattva.
+      The movement is characterized by a grandiose cosmology, often complex ritualism, paradoxical
+metaphysics, and universal ethics.
+*   Mahayana or "great vehicle" believes in the heavenliness of Buddha and Idol worship of Buddhas 
+and Bodhisattvas embodying Buddha Nature
+
+With reference to forced labour (Vishti) in India during the Gupta period, which one of the following statements is correct?
+(a) It was considered a source of income for the State, a sort of tax paid by the people.
+(b) It was totally absent in the Madhya Pradesh and Kathiawar regions of the Gupta Empire.
+(c) The forced labourer was entitled to weekly wages.
+(d) The eldest son of the labourer was sent as the forced labourer.
+Correct Option: A
+Explanation:
+*   Incentral and western India the villagers were also subjected to forced labour called vishti 
+for serving the royal army and officials. Thus it was a source of income for the kingdom.
+
+Which one of the following groups of plants was domesticated in the 'New World' and introduced into the 'Old World'?
+(a) Tobacco, cocoa and rubber
+(b) Tobacco, cotton and rubber
+(c) Cotton, coffee and sugarcane
+(d) Rubber, coffee and wheat
+Correct Option: A
+Explanation:
+*   Old World refers to Africa, Asia, and Europe while New World refers to the Americas, including 
+North America, Central America, and South America. On the other hand, the New World refers to the 
+Americas and it is inclusive of North America, South America, and Central America. The Old World 
+contrasts with the New World.
+*   Tobacco, one of the most important cash crops in American farming, is native to the North and 
+South American continents. It was first introduced in Eurape and later to India.
+Portuguese merchants first brought tobacco to India 400 years ago. Although there were already some 
+strains of locally-grown tobacco in India these were outclassed by the new imported varieties from 
+Brazil.
+*   Theobroma cacao, also called the cacao tree and the cocoa tree, is a small (4-8 m (13-26 ft) 
+tall) evergreen tree in the family Malvaceae, native to the deep tropical regions of the Americas. 
+Its seeds, cocoa beans, are used to make chocolate liquor, cocoa solids, cocoa butter and 
+chocolate.
+*   Ficus elastica, the rubber fig, rubber bush, rubber tree, rubber plant, or Indian rubber bush, 
+Indian rubber tree, is a species of plant in the fig genus, native to eastern parts of South Asia 
+and southeast Asia.
+
+Consider the following statements:
+1. Asiatic lion is naturally found in India only.
+2. Double-humped camel is naturally found in India only.
+3. One-horned rhinoceros is naturally found in India only.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+Correct Option: A
+Explanation:
+       The Great one horned rhino is commonly found in Nepal, Bhutan, Pakistan and in Assam,
+India. It is confined to the tall grasslands and forests in the foothills of the Himalayas. Double 
+humped camel also known as Bactrian camel is a native to the steppes of Central Asia, though it is 
+also found in Numbra valley in India. However Asiatic Lion is naturally found in India only.
+
+Consider the following pairs:
+Famous place
+1. Pandharpur - Chandrabhaga
+2. Tiruchirappalli - Cauvery
+3. Hampi - Malaprabha
+Which of the pairs given above are correctly matched?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+Correct Option: A
+Explanation:
+*  Pandharpur is a well known pilgrimage town on the banks of Chandrabhaga River in Solapur
+district, Maharashtra, India. Tiruchirapalli is located along the Kaveri River in Tamil Nadu, 
+India. Hampi, also referred to as the Group of Monuments at Hampi, is a UNESCO World Heritage Site 
+situated on the banks of the Tungabhadra River in the eastern part of central Karnataka near the 
+state border with Andhra Pradesh. Thus only 1 and 2 are correct.
+
+In a given year in India, official poverty lines are higher in some States than in others because
+(a) poverty rates vary from State to State
+(b) price levels vary from State to State
+(c) Gross State Product varies from State to State
+(d) quality of public distribution varies from State to State
+Correct Option: B
+Explanation:
+Poverty Line
+*   There are many challenges in marking a poverty line, such as determining components of poverty 
+line basket.
+ There are price differentials (of constituents of basket) which vary
+from state to state and period to period. So, in a given year in India, official poverty lines are 
+higher in some States than in others because price levels vary from State to State
+*   Further, consumption patterns, nutritional needs and prices of components keep on changing as 
+per dynamics of macro economy and demography.
+
+In the context of which of the following do some scientists suggest the use of cirrus cloud thinning technique and the injection of sulphate aerosol into stratosphere?
+(a) Creating the artificial rains in some regions
+(b) Reducing the frequency and intensity of tropical cyclones
+(c) Reducing the adverse effects of solar wind on the Earth
+(d) Reducing the global warming
+Correct Option: D
+Explanation:
+*   Cirrus clouds do not reflect a lot of solar radiation back into space, but because they form at 
+high altitudes and cold temperatures, they trap long-wave radiation and have a climate impact 
+similar to greenhouse gases. Thus Thinning cirrus clouds would reduce the absorption of infrared 
+radiation and proposed form of climate engineering to reduce global warming.
+*   Another proposed Geo-engineering technique involves injecting reflective sulfate aerosol 
+particles into Earth's lower stratosphere to cast a small proportion of the inbound sunlight back 
+into space and cool the planet off. Thus both are climate engineering/ Geo-engineering techniques 
+to reduce global warming.
+
+In the context of which one of the following are the terms 'pyrolysis and plasma gasification' mentioned?
+(a) Extraction of rare earth elements
+(b) Natural gas extraction technologies
+(c) Hydrogen fuel-based automobiles
+(d) Waste-to-energy technologies
+Correct Option: D
+Explanation:
+      Like incineration, pyrolysis, gasification and plasma technologies are thermal processes
+that use high temperatures to break down waste. The main difference is that they use less oxygen 
+than traditional mass-burn incineration. Thus these belong to waste to energy technologies.
+
+Which of the following are in Agasthyamala Biosphere Reserve?
+(a) Neyyar, Peppara and Shendurney Wildlife Sanctuaries; and Kalakad Mundanthurai Tiger Reserve
+(b) Mudumalai, Sathyamangalam and Wayanad Wildlife Sanctuaries; and Silent Valley National Park
+(c) Kaundinya, Gundla Brahmeswaram and Papikonda Wildlife Sanctuaries; and Mukurthi National Park
+(d) Kawal and Sri Venkateswara Wildlife Sanctuaries; and Nagarjunasagar-Srisailam Tiger Reserve 
+Correct Option: A
+Explanation:
+     ABR in situated at the southern-most end of the Western Ghats and spread over two southern
+states Kerala and Tamil Nadu. It covers Peppara and Shendurney wildlife sanctuaries and parts of 
+the Neyyar sanctuary in Kerala and the Kalakad Mundanthurai Tiger Reserve of Tamil Nadu. Thus 
+option a is correct
+
+Consider the following statements:
+1. Some species of turtles are herbivores.
+2. Some species of fish are herbivores.
+3. Some species of marine mammals are herbivores.
+4. Some species of snakes are viviparous.
+Which of the statements given above are correct?
+(a) 1 and 3 only
+(b) 2, 3 and 4 only
+(c) 2 and 4 only
+(d) 1, 2, 3 and 4
+Correct Option: D
+Explanation:
+Marine herbivores are found within four groups of species in the animal kingdom -- invertebrates, 
+fish, reptiles and mammals -- and include zooplankton, mollusks, the green sea turtle, the marine 
+iguana and some fish species. Manatees and dugongs are the only herbivores among marine mammals.
+*   Viviparous: This is when there is no egg at all. Snakes that are viviparous nourish their 
+developing young through a placenta and yolk sae, something that is highly unusual among reptiles. 
+Boa constrictors and green anacondas are two examples of viviparous snakes, meaning they give birth 
+to live young with no eggs involved at any stage of development.
+
+49. Consider the following pairs:
+Wildlife                 Naturally found in
+1.  Blue-finned Mahseer        Cauvery River
+2.  Irrawaddy Dolphin         Chambal River
+3.  Rusty-spotted Cat          Eastern Ghats Which of the pairs given above are correctly matched?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+Correct Option: C
+Explanation:
+*   Irrawaddy Dolphin is found in coastal areas in South and Southeast Asia, and Irrawaddy River, 
+it is also found in India's Ganges, and Southeast Asia's Mekong River. They are also found in 
+Chilika lake in Orissa. They are not found in Chambal. Thus option c is correct i.e. 1 and 3 only.
+
+Why  is  there  a  great  concern  about  the  'microbeads'  that  are released  into environment?
+(a) They are considered harmful to marine ecosystems.
+(b) They are considered to cause skin cancer in children.
+(c) They are small enough to be absorbed by crop plants in irrigated fields.
+(d) They are often found to be used as food adulterants.
+Correct Option: A
+Explanation:
+      Microbeads are itty-bitty plastic orbs that can be found in exfoliating facial scrubs,
+cosmetics, shower gels and toothpaste, among other products. They are part of a larger class of 
+microplastics, or pieces of plastic less than five millimeters, or 0.2 inch, long.
+      Microbeads that wash down drains cannot be filtered out by many wastewater treatment plants,
+meaning that tiny plastics slip easily into waterways. Fish and other marine animals often eat 
+them, introducing potentially toxic substances into the food chain. Thus they are harmful to marine 
+ecosystem.
+In the context of digital technologies for entertainment, consider the following statements:
+1.  In Augmented Reality (AR), a simulated environment is created and the physical world is completely shut out.
+2.  In Virtual Reality (VR), images generated from a computer are projected into real-life objects or surroundings.
+3.  AR allows individuals to be present in the world and improves the experience using the camera of smart-phone or PC.
+4. VR closes the world, and transposes an individual, providing complete immersion experience.
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 3 and 4
+(c) 1, 2 and 3
+(d) 4 only
+Correct Option: B
+Explanation:
+Augmented Reality (AR) and Virtual Reality (VR)
+*   Statement 1 is incorrect: Augmented reality (AR) is an interactive experience of a real-world 
+environment where the objects that reside in the real-world are enhanced by computer-generated 
+perceptual information, sometimes across multiple sensory modalities, including visual, auditory, 
+haptic, somatosensory and olfactory
+*   Statement 2 is incorrect: Virtual reality (VR) is an experience taking place within simulated 
+and immersive environments that can be similar to or completely different from the real world.
+*   Statement 3 is correct: AR allows individuals to be present in the world and improves the 
+experience using the camera of smart-phone or PR.
+*   Statement 4 is correct: VR closes the world, and transposes an individual, providing complete 
+immersion experience.
+
+The word 'Denisovan' is sometimes mentioned in media in reference to
+(a) fossils of a kind of dinosaurs
+(b) an early human species
+(c) a cave system found in North-East India
+(d) a geological period in the history of Indian subcontinent
+Correct Option: B
+Explanation:
+Denisovans is early human species. When our ancestors first migrated out of Africa around 60,000 
+years ago, they were not alone. At least two of our hominid cousins had made the same 
+journey—Neanderthals and Denisovans. Neanderthals, the better known of the two species, left Africa 
+about 300,000 years ago and settled in Europe and parts of western Asia. The Denisovans are a much 
+more recent addition to the human family tree. In 2008, paleoanthropologists digging in a cave in 
+southern Siberia unearthed a 40,000-year-old adult tooth and an exquisitely preserved fossilized 
+pinkie bone that had belonged to a young girl who was between five and seven years old when she 
+died.
+
+With reference to the recent developments in science, which one of the following statements is not correct?
+(a) Functional chromosomes can be created by joining segments of DNA taken from cells of different species.
+(b) Pieces of artificial functional DNA can be created in laboratories.
+(c) A piece of DNA taken out from an animal cell can be made to replicate outside a living cell in a laboratory.
+(d) Cells taken out from plants and animals can be made to undergo cell division in laboratory petri dishes.
+Correct Option: A
+Explanation:
+A is incorrect: Functional chromosomes can be created by joining segments of DNA taken from cells of different species.
+B is correct: Pieces of artificial functional DNA can be created in laboratories.
+C is correct: A piece of DNA taken out from an animal cell cannot be made to replicate outside a living cell in a laboratory.
+D is correct: Cells taken out from plants and animals can be made to undergo cell division in laboratory petri dishes.
+
+Consider the following statements: A digital signature is
+1. an electronic record that identifies the certifying authority issuing it
+2.  used to serve as a proof of identity of an individual to access information or server on Internet
+3.  an electronic method of signing an electronic document and ensuring that the original content is unchanged
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 and 3 only
+(c) 3 only
+(d) 1, 2 and 3
+Correct Option: C
+Explanation:
+*   A digital signature is basically a way to ensure that an electronic document (e-mail, 
+spreadsheet, text file, etc.) is authentic. Authentic means that you know who created the document 
+and you know that it has not been altered in any way since that person created it. Thus statement 3 is correct.
+       Digital signatures are not to be confused with digital certificates. A digital certificate,
+an electronic document that contains the digital signature of the issuing certificate authority, 
+binds together a public key with an identity and can be used to verify that a public key belongs to 
+a particular person or entity. Thus statement 1 is incorrect.
+      Digital signature also not used to serve as proof of identity of an individual to access
+information or server on internet thus statement 2 is also incorrect.
+
+In the context of wearable technology, which of the following tasks is/are accomplished by wearable devices?
+1. Location identification of a person
+2. Sleep monitoring of a person
+3. Assisting the hearing impaired person
+Select the correct answer using the code given below:
+(a) 1 only
+(b) 2 and 3 only
+(c) 3 only
+(d) 1, 2 and 3
+Correct Option: D
+Explanation:
+*   Wearables are electronic technology or devices incorporated into items that can be comfortably 
+worn on a body. These wearable devices are used for tracking information on real time basis. They 
+have motion sensors that take the snapshot of your day to day activity and sync them with mobile 
+devices or laptop computers. After the invention of smartphones, wearable electronics are the next 
+big innovation in the world of technology.
+
+'RNA interference (RNAi)' technology has gained popularity in the last few years. Why?
+1. It is used in developing gene silencing therapies.
+2. It can be used in developing therapies for the treatment of cancer.
+3. It can be used to develop hormone replacement therapies.
+4.  It can be used to produce crop plants that are resistant to viral pathogens.
+Select the correct answer using the code given below:
+(a) 1, 2 and 4
+(b) 2 and 3
+(c) 1 and 3
+(d) 1 and 4 only
+Correct Option: A
+Explanation:
+*   RNA interference is a post transcriptional gene silencing mechanism that is triggered by
+double-stranded RNA (dsRNA). RNAi is a mechanism for controlling normal gene expression which has 
+recently began to be employed as a potential therapeutic agent for a wide range of disorders, 
+including cancer, infectious diseases and metabolic disorders. It is also used as a tool to improve 
+crops by providing resistance against parasites and modified versions of siRNA that are directed 
+against disease causing genes are being developed, some of which are already tested in clinical 
+trials.
+
+Recently, scientists observed the merger of giant 'blackholes' billions of light-years away from the Earth. What is the significance of this observation?
+(a) 'Higgs boson particles' were detected.
+(b) 'Gravitational waves' were detected.
+(c) Possibility of inter-galactic space travel through 'wormhole' was confirmed.
+(d) It enabled the scientists to understand 'singularity'.
+Correct Option: B
+Explanation:
+*   Billions of light years away, two black holes have collided to create a larger one — the 
+biggest black hole merger yet detected. It has a mass more than 80 times that of the sun. The 
+resulting energy injected into the fabric of space-time was also record breaking, with five sun's 
+worth of mass released in the form gravitational waves as the two holes spiralled in towards each 
+other. Such titanic amounts of energy meant that the signal was still detectable by the time it 
+reached gravitational wave detectors on Earth. It produced a record-breaking result — the most 
+distant collision detected so far, nine billion light years away.
+
+58. Which of the following are the reasons for the occurrence of multi-drug resistance in microbial pathogens in India?
+1. Genetic predisposition of some people
+2. Taking incorrect doses of antibiotics to cure diseases
+3. Using antibiotics in livestock farming
+4. Multiple chronic diseases in some people
+Select the correct answer using the code given below:
+(a) 1 and 2
+(b) 2 and 3 only
+(c) 1, 3 and 4
+(d) 2, 3 and 4
+Correct Option: D
+Explanation:
+Multiple drug resistance (MDR), multi drug resistance or multi resistance is antimicrobial resistance shown by a species of microorganism to at least one antimicrobial drug in three or more antimicrobial categories.
+
+What is Cas9 protein that is often mentioned in news?
+(a) A molecular scissors used in targeted gene editing
+(b) A biosensor used in the accurate detection of pathogens in patients
+(c) A gene that makes plants pest-resistant
+(d) A herbicidal substance synthesized in genetically modified crops
+Correct Option: A
+Explanation:
+*   CRISPR-Cas9 is a genome editing tool that is creating a buzz in the science world. It is 
+faster, cheaper and more accurate than previous techniques of editing DNA and has a wide range of 
+potential applications. CRISPR-Cas9 is a unique technology that enables geneticists and medical 
+researchers to edit parts of the genome by removing, adding or altering sections of the DNA 
+sequence.
+
+Which one of the following statements is not correct?
+(a) Hepatitis B virus is transmitted much like HIV.
+(b) Hepatitis B, unlike Hepatitis C, does not have a vaccine.
+(c) Globally, the number of people infected with Hepatitis B and C viruses are several times more than those infected with HIV.
+(d) Some of those infected with Hepatitis B and C viruses do not show the symptoms for many years. 
+Correct Option: B
+Explanation:
+       The hepatitis B vaccine is a safe and effective vaccine that is recommended for all infants
+at birth and for children up to 18 years. The hepatitis B vaccine is also recommended for adults 
+living with diabetes and those at high risk for infection due to their jobs, lifestyle, living 
+situations, or country of birth. Since everyone is at some risk, all adults should seriously 
+consider getting the hepatitis B vaccine for a lifetime protection against a preventable chronic 
+liver disease. The hepatitis B vaccine is also known as the first "anti-cancer" vaccine because it 
+prevents hepatitis B, the leading cause of liver cancer worldwide. Thus option b) is answer.
+
+With reference to the Constitution of India, consider the following statements:
+1.  No High Court shall have the jurisdiction to declare any central law to be constitutionally invalid.
+2.  An amendment to the Constitution of India cannot be called into question by the Supreme Court of India.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Correct Option: D
+Explanation:
+Both options are false.
+*   "The 42nd Amendment Act of 1976 curtailed the judicial review power of high court. It debarred 
+the high courts from considering the constitutional validity of any central law. However, the 43rd 
+Amendment Act of 1977 restored the original position." (Laxmikanth: High Court)
+*   Justice Syed Shah Mohamed Quadri has classified the judicial review into the following three 
+categories "Judicial review of constitutional amendments." (Laxmikanth: Judicial Review)
+
+Consider the following statements:
+1.  Purchasing Power Parity (PPP) exchange rates are calculated by comparing the prices of the same basket of goods and services in different countries.
+2.  In terms of PPP dollars, India is the sixth largest economy in the world.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Correct Option: A
+Explanation:
+Purchasing Power Parity (PPP)
+*  The purchasing power of a currency refers to the quantity of the currency needed to purchase a 
+given unit of a good, or common basket of goods and services.
+Purchasing power is clearly determined by the relative cost of living and inflation rates in 
+different countries.
+*  Purchasing power parity means equalising the purchasing power of two currencies by taking into 
+account these cost of living and inflation differences.
+*   Statement 1 is correct: PPP exchange rates are calculated by comparing the prices of the same 
+basket of goods and services in different countries.
+*   Statement 2 is incorrect: In terms of PPP dollars, India is the third largest economy in the 
+world.
+
+With reference to the cultivation of Kharif crop in India in the last five years, consider the following statements:
+1. Area under rice cultivation is the highest.
+2.  Area under the cultivation of jowar is more than that of oilseeds.
+3.  Area of cotton cultivation is more than that of sugarcane.
+4. Area under sugarcane cultivation has steadily decreased.
+Which of the statements given above are correct?
+(a) 1 and 3 only
+(b) 2, 3 and 4 only
+(c) 2 and 4 only
+(d) 1, 2, 3 and 4
+Correct Option: A
+Explanation:
+Kharif Crop in India
+*   Statement 1 is correct: Area under rice cultivation is the highest.
+*   Statement 2 is incorrect: Area under the cultivation of jowar is not more than that of 
+oilseeds.
+Statement 3 is correct: Area of cotton cultivation is more than that of sugarcane.
+Statement 4 is incorrect: Area under sugarcane cultivation has not decreased. The normal area 
+(average of latest five years) under sugarcane cultivation in the country is 48.84 lakh hectares. 
+During 2015-16 area under sugarcane was estimated above the normal area coverage at 49.27 lakh 
+hectares. The area under sugarcane declined to 44.36 lakh hectares during 2016-17 due to lesser 
+area coverage in Maharashtra and then increased to 47.32 lakh hectares during 2017-18.
+
+64. Among the agricultural commodities imported by India, which one of the following accounts for the highest imports in terms of value in the last five years?
+(a) Spices
+(b) Fresh fruits
+(c) Pulses
+(d) Vegetable oils
+Correct Option: D
+Explanation: Its current affairs data.
+
+In the context of polity, which one of the following would you accept as the most appropriate definition of liberty?
+(a) Protection against the tyranny of political rulers
+(b) Absence of restraint
+(c) Opportunity to do whatever one likes
+(d) Opportunity to develop oneself fully
+Correct Option: D
+Explanation:
+*   Option A and B entail negative conception of liberty and have minimalist overtone.
+Option C is related to anarchy and lawlessness. Option D provides for positive conception of liberty
+that our constitution provides for. Provision of reservation, protection of minority rights etc. 
+provide for creating an enabling atmosphere where individual can develop themselves fully.
+
+Which one of the following is not the most likely measure the Government/RBI takes to stop the slide of Indian rupee?
+(a) Curbing imports of non-essential goods and promoting exports
+(b) Encouraging Indian borrowers to issue rupee denominated Masala Bonds
+(c) Easing conditions relating to external commercial borrowing
+(d) Following an expansionary monetary policy
+Correct Option: D
+Explanation:
+*  To stop slide of rupee against dollar, we need to improve inflow of forex and increase its supply and control domestic currency money supply.
+•  Is a correct step as it will bring more forex
+•  Is a correct step as it will bring more forex through FPI
+•  Is a correct step as it will bring more forex through Debt
+•  Is not a correct step, as it increases money supply
+
+Consider the following statements:
+The Reserve Bank of India's recent directives relating to 'Storage of Payment System Data', popularly known as data diktat, command the payment system providers that
+1.  they shall ensure that entire date relating to payment systems operated by them are stored in a system only in India
+2. they shall ensure that the systems are owned and operated by public sector enterprises
+3.  they shall submit the consolidated system audit report to the Comptroller and Auditor General of India by the end of the calendar year
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 1 and 2 only
+(c) 3 only
+(d) 1, 2 and 3
+Correct Option: A
+Explanation:
+Statement 1 is correct:
+*   There has been considerable growth in the payment ecosystem in the country. Such systems are 
+also highly technology dependent, which necessitate adoption of safety and security measures, which 
+are best in class, on a continuous basis. As per the RBI, not all system providers store the 
+payments data in India.
+To ensure better monitoring, it is important to have unfettered supervisory access to data stored 
+with these system providers as also with their service providers / intermediaries/ third party 
+vendors and other entities in the payment ecosystem. The RBI has put in place certain guidelines 
+for storage of payment system data which are as follows:
+*   All system providers are required to ensure that the entire data relating to payment systems 
+operated by them are stored in a system only in India. This data should include the full end-to-end 
+transaction details / information.
+*   Collected / carried / processed as part of the message / payment instruction. For the foreign 
+leg of the transaction, if any, the data can also be stored in the foreign country, if required.
+*   System providers are required to ensure compliance of (1) above within a period of six months 
+and report compliance of the same to the Reserve Bank latest by October 15, 2018.
+*  Statement 2 is incorrect: All system providers are required to ensure that the entire data 
+relating to payment systems operated by them are stored in a system only in India. This data should 
+include the full end-to-end transaction details / information. They may be private or public sector 
+enterprises.
+*   Statement 3 is incorrect: System providers are required to submit the System Audit Report (SAR) 
+on completion of the requirement above not with CAG. CERT-IN empanelled auditors certifying 
+completion of activity at above should conduct the audit. The SAR duly approved by the Board of the 
+system providers should be submitted to the Reserve Bank not later than December 31, 2018.
+
+68.  Which of the following adopted a law on data protection and privacy for its citizens known as 'General Data Protection Regulation' in April 2016 and started implementation of it from 25th May, 2018?
+(a) Australia
+(b) Canada
+(c) The European Union
+(d) The United States of America
+Correct Option: C
+Explanation:
+*   The General Data Protection Regulation (GDPR), agreed upon by the European Parliament and 
+Council in April 2016, will replace the Data Protection Directive 95/46/ec in Spring 2018 as the 
+primary law regulating how companies protect EU citizens' personal data. Companies that are already 
+in compliance with the Directive must ensure that they are also compliant with the new requirements 
+of the GDPR before it becomes effective on May 25, 2018. Companies that fail to achieve GDPR 
+compliance before the deadline will be subject to stiff penalties and fines.
+*   GDPR requirements apply to each member state of the European Union, aiming to create more 
+consistent protection of consumer and personal data across EU nations. Some of the key privacy and 
+data protection requirements of the GDPR include:
+•  Requiring the consent of subjects for data processing
+•  Anonymizing collected data to protect privacy
+•  Providing data breach notifications
+•  Safely handling the transfer of data across borders
+•  Requiring certain companies to appoint a data protection officer to oversee GDPR compliance
+•   Simply put, the GDPR mandates a baseline set of standards for companies that handle EU 
+citizens' data to better safeguard the processing and movement of citizens' personal data.
+Who is subject to GDPR compliance?
+*   The purpose of the GDPR is to impose a uniform data security law on all EU members, so that 
+each member state no longer needs to write its own data protection laws and laws are consistent 
+across the entire EU. In addition to EU members, it is important to note that any company that 
+markets goods or services to EU residents, regardless of its location, is subject to the 
+regulation. As a result, GDPR will have an impact on data protection requirements globally.
+
+Recently,  India  signed  a  deal  known  as  'Action  Plan  for Prioritization  and Implementation of Cooperation Areas in the Nuclear Field' with which of the following countries?
+(a) Japan
+(b) Russia
+(c) The United Kingdom
+(d) The United States of America
+Correct Option: B
+Explanation:
+       India signs Action Plan with the Russian Federation. Back. "Action Plan for Prioritization
+and Implementation of Cooperation Areas in the Nuclear Field".
+*   The two countries intent to develop a project of six nuclear power units of Russian design at a 
+new site in India, further enhance cooperation in the third countries and bring in new perspective 
+nuclear technologies together with joint construction of nuclear power plants.
+      According to the document, for the new nuclear project in India Russia will offer the
+evolutionary VVER generation "3+" technical solutions and will increase the level of Indian 
+industry's involvement and localization. This is state of art nuclear reactor technology in the 
+world.
+
+The money multiplier in an economy increases with which one of the following?
+(a) Increase in the cash reserve ratio
+(b) Increase in the banking habit of the population
+(c) Increase in the statutory liquidity ratio
+(d) Increase in the population of the country
+Correct Option: B
+Explanation:
+*  increase in CRR decrease money multiplier, as it reduces flow of funds back to market
+*  it increases money multiplier by increasing the velocity of money
+*   increase in SLR decrease money multiplier, as it reduces flow of funds back to market
+*  population is not related to money multiplier
+
+The Services Area Approach was implemented under the purview of
+(a) Integrated Rural Development Programme
+(b) Lead Bank Scheme
+(c) Mahatma Gandhi National Rural Employment Guarantee Scheme
+(d) National Skill Development Mission
+Correct Option: B
+Explanation:
+Lead bank scheme Service Area Approach under which villages are identified and assigned to bank 
+branches based on their proximity and contiguity. Sub Service Area is a cluster of more than one 
+village wherein up to 1000 to 1500 households are brought under such cluster for providing banking 
+services.
+
+With reference to the management of minor minerals in India consider the following statements:
+1.  Sand is a 'minor mineral' according to the prevailing law in country.
+2.  State Governments have the power to grant mining leases of minor minerals, but the powers regarding the formation of rules related to the grant of minor minerals lie with the Central Government.
+3.  State Governments have the power to frame rules to prevent illegal mining of minor minerals.
+Which of the statements given above is/are correct?
+(a) 1 and 3 only
+(b) 2 and 3 only
+(c) 3 only
+(d) 1, 2 and 3
+Correct Option: A
+Explanation:
+*   Sand is a minor mineral, as defined under section 3(e) of the Mines and Minerals (Development 
+and Regulation) Act, 1957 (MMDR Act).
+*  Section 15 of the MMDR Act empowers state governments to make rules for regulating the grant of 
+mineral concessions in respect of minor minerals and for purposes connected therewith. The 
+regulation of grant of mineral concessions for minor minerals is, therefore, within the legislative 
+and administrative domain of the state governments.
+       Further,section 23C of theMMDR Act, 1957 empowers state governments to frame rules to
+prevent illegal mining, transportation and storage of mineralsand for purposes connected therewith. 
+Control of illegal mining is, therefore, under the legislative and administrative jurisdiction of 
+state governments.
+
+Consider the following statements:
+1. Most of India's external debt is owed by governmental entities.
+2.  All of India's external debt is denominated in US dollars.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Correct Option: D
+Explanation:
+*  India's external debt is held in multiple currencies, the largest of which is the United States 
+dollar. As on 31 December 2017, 48.2% of the country's debt was held in U.S. dollars. The rest of 
+the debt is held in Indian rupees (37.3%), special drawing rights (5.7%), Japanese yen (4.6%), 
+Euros (3.2%) and other currencies (1%).
+   Most of India's external debt is in form of ECB and NRI deposits.
+
+Which of the following is not included in the assets of a commercial bank in India?
+(a) Advances
+(b) Deposits
+(c) Investments
+(d) Money at call and short notice
+Correct Option: B
+Explanation:
+      Deposits of banks are liability not assets
+
+In the context of India, which of the following factors is/are contributor/contributors to reducing the risk of a currency crisis?
+1. The foreign currency earnings of India's IT sector
+2. Increasing the government expenditure
+3. Remittances from Indians abroad
+Select the correct answer using the code given below.
+(a) 1 only
+(b) 1 and 3 only
+(c) 2 only
+(d) 1, 2 and 3
+Correct Option: B
+Explanation:
+Currency crisis risk is reduced by increase in foreign exchange inflow in the current account of 
+BoP. In this question 1 and 3 are inflows in the current account and hence reduce the risk, whereas 
+2 are not related to currency risk directly.
+
+Which one of the following suggested that the Governor should be an eminent person from outside the State and should be a detached figure without intense political links or should not have taken part in politics in the recent past?
+(a) First Administrative Reforms Commission (1966)
+(b) Rajamannar Committee (1969)
+(c) Sarkaria Commission (1983)
+(d) National Commission to Review the Working of the Constitution (2000)
+Correct Option: C
+Explanation:
+*  Sarkaria Commission provides for these. (Laxmikanth: Center-State Relations)
+*   While selecting Governors, the Central Government should adopt the following strict guidelines 
+as recommended in the Sarkaria Commission report and follow its mandate in letter and spirit:
+•  He should be eminent in some walk of life
+•  He should be a person from outside the state
+•   He should be a detached figure and not too intimately connected with the local politics of the 
+states
+•   He should be a person who has not taken too great a part in politics generally and particularly 
+in the recent past
+
+Which of the following is issued by registered foreign portfolio investors to overseas investors who want to be part of the Indian stock market without registering themselves directly?
+(a) Certificate of Deposit
+(b) Commercial Paper
+(c) Promissory Note
+(d) Participatory Note
+Correct Option: D
+Explanation:
+*   P-Notes or Participatory Notes are Overseas Derivative Instruments that have Indian stocks as 
+their underlying assets. They allow foreign investors to buy stocks listed on Indian exchanges 
+through FIIs without being registered.
+
+Consider the following statements:
+1.  As per law, the Compensatory Afforestation Fund Management and Planning Authority exists at both National and State levels.
+2.  People's participation is mandatory in the compensatory afforestation programmes carried out under the Compensatory Afforestation Fund Act, 2016.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Correct Option: A
+Explanation:
+Statement 1 is correct:
+*   The Bill establishes the National Compensatory Afforestation Fund under the Public Account of 
+India, and a State Compensatory Afforestation Fund under the Public Account of each state.
+*   These Funds will receive payments for: (i) compensatory afforestation, (ii) net present value 
+of forest (NPV), and (iii) other project specific payments. The National Fund will receive 10% of 
+these funds, and the State Funds will receive the remaining 90%.
+These Funds will be primarily spent on afforestation to compensate for loss of forest cover, 
+regeneration of forest ecosystem, wildlife protection and infrastructure development.
+The Bill also establishes the National and State Compensatory Afforestation Fund Management and 
+Planning Authorities to manage the National and State Funds.
+Statement 2 is incorrect:
+*  People's participation is not mandatory in compensatory in the compensatory afforestation 
+programmes carried out under the compensatory fund act, 2016.
+
+In India, which of the following review the independent regulators in sectors like telecommunications, insurance, electricity, etc.?
+1. Ad Hoc Committees set up by the Parliament
+2. Parliamentary Department Related Standing Committees
+3. Finance Commission
+4. Financial Sector Legislative Reforms Commission
+5. NITI Aayog
+Select the correct answer using the code given below:
+(a) 1 and 2
+(b) 1, 3 and 4
+(c) 3, 4 and 5
+(d) 2 and 5
+Correct Option: A
+Explanation: Statements 1 and 2 are correct.
+
+With reference to India's Five-Year Plans, which of the following statements is/are correct?
+1.  From the Second Five-Year Plan, there was a determined thrust towards substitution of basic and capital good industries.
+2.  The Fourth Five-Year Plan adopted the objective of correcting the earlier trend of increased concentration of wealth and economic power.
+3.  In the Fifth Five-Year Plan, for the first time, the financial sector was included as an integral part of the Plan.
+Select the correct answer using the code given below.
+(a) 1 and 2 only
+(b) 2 only
+(c) 3 only
+(d) 1, 2 and 3
+Correct Option: A
+Explanation:
+Statement 1 is correct:
+*     A sizeable increase in national income so as to raise the level of living.
+*   Rapid industrialization of the country with particular emphasis on the development of basic and 
+Capital Goods industries.
+*     A large expansion of employment opportunities by developing labour-intensive projects and
+small scale industries.
+*  Reduction in inequalities of income and distribution.
+*   To attain the annual growth rate of 5%. Statement 2 is correct:
+*      The fourth five year plan for the first time the financial sector was included as an
+integral part of the plan.
+*   Major reform taken during this period was Nationalization of Banks and abolition of privy 
+purses.
+*   Statement 3 is incorrect: Financial sector was included for the first time in fourth five year 
+plan itself.
+
+Consider the following statements about Particularly Vulnerable Tribal Groups (PVTGs) in India :
+1.  PVTGs reside in 18 States and one Union Territory.
+2.  A stagnant or declining population is one of the criteria for determining PVTG status.
+3.  There are 95 PVTGs officially notified in the country so far.
+4.  Irular and Konda Reddi Tribes are included in the list of PVTGs.
+Which of the statements given above are correct?
+(a) 1, 2 and 3
+(b) 2, 3 and 4
+(c) 1, 2 and 4
+(d) 1, 3 and 4
+Correct Option: C
+Explanation:
+*   Statement 1 is correct: PVTGs reside in 18 States and UT of A&N Islands.
+*   Statement 2 is correct: Some specific signs such as primitive traits, distinctive culture, 
+geographical isolation, shyness to contact with the community at large and backwardness often 
+identify tribal communities. Along with these, some tribal groups have some specific features such 
+as dependency on hunting, gathering for food, having pre-agriculture level of technology, zero or 
+negative growth of population and extremely low level of literacy. These groups are called 
+Particularly Vulnerable Tribal Groups.
+*   Under the scheme, Conservation-cum-Development (CCD)/Annual Plans are to be prepared by each 
+State/UT for their PVTGs based on their need assessment, which are then appraised and approved by 
+the Project Appraisal Committee of the Ministry. Activities for development of PVTGs are undertaken 
+in Sectors of Education, Health, Livelihood and Skill Development , Agricultural Development , 
+Housing & Habitat, Conservation of Culture etc
+*   Statement 3 is incorrect: 75 tribal groups have been categorized categorized by Ministry of 
+Home Affairs as Particularly Vulnerable Tribal Groups (PVTG)s. The Ministry of Tribal Affairs 
+implements the Scheme of "Development of Particularly Vulnerable Tribal Groups (PVTGs)" exclusively 
+for them .
+*   Statement 4 is correct: Konda reddy of Khammam district of Telangana and Irular of Tamil Nadu 
+are under PVTGs.
+
+With reference to the Constitution of India, prohibitions or limitations or provisions contained  in ordinary  laws cannot  act  as prohibitions  or limitations on the constitutional powers under Article 142. It could mean which one of the following?
+(a) The decisions taken by the Election Commission of India while discharging its duties cannot be challenged in any court of law.
+(b) The Supreme Court of India is not constrained in the exercise of its powers by laws made by the Parliament.
+(c) In the event of grave financial crisis in the country, the President of India can declare Financial Emergency without the counsel from the Cabinet.
+(d) State legislatures cannot make law on certain matters without the concurrence of Union Legislature.
+Correct Option: B
+Explanation:
+*  "One of the important instances of application by the Supreme Court of Article 142 was in the 
+Union Carbide case —relating to the victims of the Bhopal gas tragedy —where the Court felt a need 
+to deviate from existing law to bring relief to the thousands of persons affected by the gas leak. 
+In this judgment, the Supreme Court, while awarding compensation of $470 million to the victims, 
+went to the extent of saying that to do complete justice, it could even override the laws made by 
+Parliament by holding that, "prohibitions or limitations or provisions contained in ordinary laws 
+cannot, ipso facto, act as prohibitions or limitations on the constitutional powers under Article 
+142." By this statement the Supreme Court of India placed itself above the laws made by Parliament 
+or the legislatures of the States."
+
+With reference to the Legislative Assembly of a State in India, consider the following statements:
+1. The governor makes a customary address to members of the house at the commencement of the first session of the year.
+2.  When a State Legislature does not have a rule on a particular matter, it follows the Lok Sabha rule on that matter.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Correct Option: C
+Explanation:
+*   Statement 1 is correct: Article 176(1) of the Constitution of India enjoins that the Governor 
+shall Address both the Houses assembled together at the commencement of the first Session after 
+each general election to the Assembly and ct the commencement of tlse fsrot version of eacls year 
+and inform the Legislature of the causes of its Simmons.
+*   The Address of the Governor contains a review of the activities and Achievements of the 
+Government during the previous year and their policy with regard to important internal problems as 
+well as a brief account of the programme of Government Business for the session.
+*   Statement 2 is correct: When a State legislature does not have a rule on a particular matter, 
+it follows the Lok Sabha rule on that matter.
+
+Consider the following statements:
+1. The United Nations Convention against Corruption (UNCAC) has a 'Protocol against the Smuggling of Migrants by Land, Sea and Air.
+2.  The UNCAC is the ever-first legally binding global anti-corruption instrument.
+3.  A highlight of the United Nations Convention against Transnational Organized Crime (UNTOC) is the inclusion of a specific chapter aimed at returning assets to their rightful owners from whom they had been taken illicitly.
+4.  The United Nations Office on Drugs and Crime (UNODC) is mandated by its member States to assist in the implementation of both UNCAC and UNTOC.
+Which of the statements given above are correct?
+(a) 1 and 3 only
+(b) 2, 3 and 4 only
+(c) 2 and 4 only
+(d) 1, 2, 3 and 4
+Correct Option: C
+Explanation:
+Statement 1 is incorrect:
+*      Negotiated by member states of the United Nations (UN) it has been adopted by the UN General
+Assembly in October 2003 and entered into force in December 2005.
+The UNCAC recognise the importance of both preventive and punitive measures, addresses the cross- 
+border nature of corruption with provisions on international cooperation and on the return of the 
+proceeds of corruption.
+Statement 2 is correct:
+The United Nations Convention against Corruption (UNCAC) is the only legally binding international 
+anti-corruption multilateral treaty.
+Statement 3 is incorrect:
+*   UNCAC's goal is to reduce various types of corruption that can occur across country borders, 
+such as trading in influence and abuse of power, as well as corruption in the private sector, such 
+as embezzlement and money laundering. Another goal of the UNCAC is to strengthen international law 
+enforcement and judicial cooperation between countries by providing effective legal mechanisms for 
+international asset recovery.
+Statement 4 is correct:
+*       The UN Office on Drugs and Crime (UNODC) in Vienna serves as Secretariat for the UNCAC. Its
+members to assist in the implementation of both UNCAC and UNTOC also mandate it.
+
+Consider the following statements:
+1.  As per recent amendment to the Indian Forest Act, 1927, forest dwellers have the right to fell the bamboos grown on forest areas.
+2.  As per the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, bamboo is a minor forest produce.
+3.  The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006 allows ownership of minor forest produce to forest dwellers.
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 3 only
+(d) 1, 2 and 3
+Correct Option: D
+Explanation:
+*   Statement 1 is correct: Parliament passed an amendment to the Indian Forest Act, 1927 removing 
+'bamboo' plant growing on non-forest lands from the definition of 'tree'. The government claimed 
+this would benefit tribals and other dwellers living around forests. The amendment converted into 
+law what had been passed as an ordinance before that. As they enjoy right to fell bamboos in forest 
+areas.
+*   Statement 2 is correct: Section 2(i) of the the scheduled Tribes and other Traditional forest 
+dweller Act defines a Minor Forest Produce (MFP) as all non-timber forest produce of plant origin 
+and includes bamboo, brushwood, stumps, canes, Tusser, cocoon, honey, waxes, Lac, tendu/kendu 
+leaves, medicinal plants and herbs, roots, tuber and the like.
+*   Statement 3 is correct: The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition 
+of Forest Rights) Act, 2006, popularly known as the Forests Rights Act (FRA), was enacted in 2007. 
+The Act recognizes and vests individual forest-dwellers with forest rights to live in and cultivate 
+forest land that was occupied before 13 December 2005 and grants community forest rights to manage, 
+protect and regenerate the forest under section 3(1)(i), and to own and dispose minor forest 
+products from forests where they had traditional access. Section 3(1)(e) of the Forest Rights Act 
+2006 defines forest rights as inclusive of 'Right of ownership, access to collect, use and dispose 
+of minor forest produce which have traditionally been collected within or outside village 
+boundaries'. Individuals, communities and gram sabhas having rights under this particular section of the Act will not only have the rights to use
+but also rights of ownership over MFPs. This goes beyond the Provisions of the Panchayats 
+(Extension To The Scheduled Areas) Act, 1996 (PESA Act) which had authorised states to entrust 
+panchayats and gramasabhas as the owners of MFP.
+
+Which Article of the Constitution of India safeguards one's right to marry the person of one's choice?
+(a) Article 19
+(b) Article 21
+(c) Article 25
+(d) Article 29 Correct Option: B
+Explanation:
+*  "The right to marry a person of one's choice is integral to Article 21 (right to life and 
+liberty) of the Constitution", the Supreme Court said Monday and set aside a 2017 order of the 
+Kerala High Court which annulled the marriage of Kerala Muslim convert girl Hadiya and Shefin 
+Jahan.
+
+Consider the following statements :
+1.  According to the Indian Patents Act, a biological process to create a seed can be patented in India.
+2. In India, there is no Intellectual Property Appellate Board.
+3.  Plant varieties are not eligible to be patented in India. Which of the statements given above is/are correct?
+(a) 1 and 3 only
+(b) 2 and 3 only
+(c) 3 only
+(d) 1, 2 and 3
+Correct Option: C
+Explanation:
+Indian Patent Act
+*      A patent is an exclusive right granted to an inventor to prevent others from making, using,
+producing, selling and distributing the patented invention.
+*      A patent on seeds would prevent farmers from saving and exchanging seed.
+*   Statement 1 is incorrect and statement 3 is correct: In our Patent Law we introduced a clause 
+Article 3j which clearly states that the following are not inventions, hence not patentable: 
+"plants and animals in whole or in any part thereof other than microorganisms; but including seeds, 
+varieties, and species, and essentially biological processes for production or propagation of 
+plants and animals".
+*   Statement 2 is incorrect: The Intellectual Property Appellate Board (IPAB) was constituted on 
+September 15, 2003 by the Indian Government to hear and resolve the appeals against the decisions 
+of the registrar under the Indian Trademarks Act, 1999 and the Geographical Indications of Goods 
+(Registration and Protection) Act, 1999.
+*   Since April 2, 2007, IPAB has been authorized to hear and adjudicate upon the appeals from most 
+of the decisions, orders or directions made by the Patent Controller under the Patents Act. 
+Therefore all pending appeals of Indian High Courts under the Patents Act were transferred to IPAB.
+*   The headquarter of the IPAB is located in Chennai. IPAB also has sittings at Chennai, Delhi, 
+Kolkata and Ahmedabad.
+
+Consider the following statements :
+The Environment Protection Act, 1986 empowers the Government of India to
+1.  state the requirement of public participation in the process of environmental protection, and the Procedure and manner in which it sought
+2. lay down the standards for emission or discharge of environmental pollutants from various sources
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Correct Option: B
+Explanation:
+*   Environment Protection Act, 1986: The Act empowers the Central Government to take all
+appropriate measures to prevent and control pollution and to establish effective machinery for the 
+purpose of protecting and improving the quality of the environment and preventing, abating and 
+controlling environmental pollution.
+•   The Act empowers the center to "take all such measures as it deems necessary".
+•   By virtue of this Act, Central Government has armed itself with considerable powers which 
+include,
+•  coordination of action by state,
+•  planning and execution of nationwide programmes,
+•   Statement 2 is correct: laying down environmental quality standards, especially those governing 
+emission or discharge of environmental pollutants,
+•  placing restriction on the location of industries and so on.
+•   authority to issue direct orders, included orders to close, prohibit or regulate any industry.
+•   power of entry for examination, testing of equipment and other purposes and power to analyze 
+the sample of air, water, soil or any other substance from any place.
+•  The Act explicitly prohibits discharges of environmental pollutants in excess of prescribed 
+regulatory standards.
+•   There is also a specific prohibition against handling hazardous substances except those 
+incompliance with regulatory procedures and standards.
+•   The Act provides provision for penalties. For each failure or contravention the punishment 
+included a prison term up to five years or fine up to Rs. 1 lakh, or both.
+•   The Act imposed an additional fine of up to Rs. 5,000 for every day of continuing violation.
+•   If a failure or contravention occurs for more than one year, offender may be punished with 
+imprisonment which may be extended to seven years.
+•   Section 19 provides that any person, in addition to authorized government officials, may file a 
+complaint with a court alleging an offence under the Act.
+•   This "Citizens' Suit" provision requires that the person has to give notice of not less than 60 
+days of the alleged offence of pollution to the Central Government.
+
+As per the Solid Waste Management Rules, 2016 in India, which one of the following statements is correct?
+(a) Waste generator has to segregate waste into five categories.
+(b) The Rules are applicable to notified urban local bodies, notified towns and all industrial townships only.
+(c) The Rules provide for exact and elaborate criteria for the identification of sites for landfills and waste processing facilities.
+(d) It is mandatory on the part of waste generator that the waste generated in one district cannot be moved to another district.
+Correct Option: C
+Explanation:
+Solid Waste Management Rules, 2016
+*   The new rules have mandated the source segregation of waste in order to channelize the waste to wealth by recovery, reuse and recycle.
+*   Statement A is incorrect: Waste generators would now have to now segregate waste into three
+streams (not five) - Biodegradables, Dry (Plastic, Paper, metal, Wood, etc ) and Domestic Hazardous 
+waste (diapers, napkins, mosquito repellants, cleaning agents etc.) before handing it over to the 
+collector.
+*   Statement B is incorrect: The Rules are applicable beyond municipal areas and will extend to
+urban agglomerations, census towns, notified industrial townships, areas under the control of 
+Indian Railways, airports, airbase, port and harbour, defence establishments, special economic 
+zones, State and Central government organizations, places of pilgrims, religious & historical 
+importance.
+*   Statement C is correct: Waste processing facilities will have to be set up by all local
+bodies having a population of 1 million or more within two years. The landfill site shall be 100 
+meters away from a river, 200 meters from a pond, 500 meters away from highways, habitations, 
+public parks and water supply wells and 20 km away from airports/airbase.
+*   The construction of landfills on hills shall be avoided. Land for construction of sanitary 
+landfills in hilly areas will be identified in the plain areas, within 25 kilometers.
+*   Statement D is incorrect: The bio-degradable waste should be processed, treated and disposed
+of through composting or bio-methanation within the premises as far as possible. The residual waste 
+shall be given to the waste collectors or agency as directed by the local authority.
+
+Consider the following statements :
+As per the Industrial Employment (Standing Orders) Central (Amendment) Rules, 2018
+1. if rules for fixed-term employment are implemented, it becomes easier for the firms/companies to lay off workers
+2. no notice of termination of employment shall be necessary in the case of temporary workman
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Correct Option: C
+Explanation:
+Industrial Employment (Standing Orders) Central (Amendment) Rules, 2018
+*   Statement 1 is correct: Fixed-term employment for all sectors will make it easier for companies 
+to hire-and-fire workers. If rules for fixed term employment are implemented, it become easier for 
+the firms/companies to lay off workers
+*   Statement 2 is correct: No notice of termination of employment shall be necessary in the case 
+of temporary workman.
+*      Provided that a temporary workman, who has completed three months continuous service, shall
+be given two weeks notice of the intention to terminate his employment if such termination is not 
+in accordance with the terms of the contract of his employment:
+*      Provided further that when the services of a temporary workman, who has not completed three
+month's continuous service, are terminated before the completion of the term of employment given to 
+him, he shall be informed of the reasons for termination in writing and when the services of a 
+badli workman are terminated before the return to work of the permanent incumbent or the expiry of 
+his (badli's) term of employment, he shall be informed of the reasons for such termination in 
+writing."
+
+With reference to Asian Infrastructure Investment Bank (AIIB), consider the following statements :
+1. AIIB has more than 80 member nations.
+2.  India is the largest shareholder in AIIB.
+3. AIIB does not have any members from outside Asia.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+Correct Option: A
+Explanation:
+Asian Infrastructure Investment Bank (AIIB)
+•  AIIB is multilateral development bank initiated by China.
+•   Its purpose is to provide finance to infrastructure development and regional connectivity 
+projects in Asia-Pacific region.
+•   It is viewed as Asia's response to West-dominated Asian Development Bank (ADB) and World Bank 
+(WB).
+•   It was officially established in December 2015 with mission to improve social and economic 
+outcomes in Asia and beyond and opened for business in January 2016.
+•   It is headquartered in Beijing, China.
+*   Statement 1 is correct: So far it has more than 80 member nations.
+*  Statement 2 is incorrect: It has an authorised capital of US $100 billion. China is largest 
+shareholder of AIIB with 26.06% voting shares. India with 7.5% vote share is second largest 
+shareholder followed by Russia, Germany and South Korea.
+*   Statement 3 is incorrect: The bank has members from around the world with the major exceptions 
+of Japan, United states of America and Mexico.
+
+What was the purpose of Inter-Creditor Agreement signed by Indian banks and financial institutions recently?
+(a) To lessen the Government of India's perennial burden of fiscal deficit and current account deficit
+(b) To support the infrastructure Projects of Central and State Governments
+(c) To act as independent regulator in case of applications for loans of Rs. 50 crore or more
+(d) To aim at faster resolution of stressed assets of Rs. 50 crore or more which are under consortium lending
+Correct Option: D
+Explanation:
+Inter-Creditor Agreement (ICA)
+*   Option D is correct: Inter-Creditor Agreement (ICA) aimed at faster resolution of stressed
+assets of Rs. 50 crore or more which are under consortium lending.
+I       It has been signed by 22 public sector banks, 19 private sector banks and 32 foreign banks 
+and 12 major financial intermediaries like LIC, HUDCO etc.
+*   ICA Framework is part of project 'Sashak'. Under it, lead lender (having highest exposure) will 
+be authorised to formulate resolution plan for operation turnaround of assets which will be 
+presented to lenders for their approval.
+*   It will be applicable to all corporate borrowers who have availed loans and financial 
+assistance for amount of Rs. 50 crore or more under consortium lending or multiple banking 
+arrangements. Each resolution plan will be submitted by lead lender to Overseeing Committee.
+*   The decision making under ICA framework will be by way of approval of majority lenders i.e. 
+lenders with 66% share in aggregate exposure. Once resolution plan is approved by majority lenders, 
+it will be binding on all lenders that are party to ICA. The plan formulated under ICA will be in 
+compliance with RBI norms and all other applicable laws and guidelines. Banks opposing resolution 
+plan will have option to sell their stressed loans to company at discount or buy out loans to that 
+entity from all other lenders at premium.
+
+The  Chairmen of public sector banks are selected by the
+(a) Banks Board Bureau
+(b) Reserve Bank of India
+(c) Union Ministry of Finance
+(d) Management of concerned bank
+Correct Option: A
+Explanation:
+Bank Board Bureau (BBB)
+*  BBB is autonomous body of Central Government.
+*      It was announced by Union Government in August 2015 as part of seven point Indradhanush
+Mission to revamp PSBs and started functioning in April 2016.
+*  It had replaced Appointments Board of Government.
+*      It is housed in Reserve Bank of India's (RBI) central office in Mumbai, Maharashtra.
+*  It comprises eminent professionals and officials for public sector banks (PSBs).
+Functions of BBB
+*  Give recommendations for appointment of full-time Directors as well as
+non- Executive Chairman of PSBs.
+*   Give advice to PSBs in developing differentiated strategies for raising funds through 
+innovative financial methods and instruments and to deal with issues of stressed assets.
+*   Guide banks on mergers and consolidations and governance issues to address bad loans problem 
+among other issues.
+
+Consider the following statements :
+1.  Petroleum and Natural Gas Regulatory Board (PNGRB) is the first regulatory body set up by the Government of India.
+2.  One of the tasks of PNGRB is to ensure competitive markets for gas.
+3.  Appeals against the decisions of PNGRB go before the Appellate Tribunals for Electricity.
+Which of the statements given above are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3 Correct Option: B
+Explanation:
+Petroleum and Natural Gas Regulatory Board (PNGRB)
+*   Statement 1 is incorrect: The Petroleum and Natural Gas Regulatory Board (PNGRB) was 
+constituted under The Petroleum and Natural Gas Regulatory Board Act, 2006 notified via Gazette 
+Notification dated 31st March, 2006.
+*   Statement 2 is correct: The Act provide for the establishment of Petroleum and Natural Gas 
+Regulatory Board to protect the interests of consumers and entities engaged in specified activities 
+relating to petroleum, petroleum products and natural gas and to promote competitive markets and 
+for matters connected therewith or incidental thereto.
+*       Further as enshrined in the act, the board has also been mandated to regulate the refining,
+processing, storage, transportation, distribution, marketing and sale of petroleum, petroleum 
+products and natural gas excluding production of crude oil and natural gas so as and to ensure 
+uninterrupted and adequate supply of petroleum, petroleum products and natural gas in all parts of 
+the country.
+*   Statement 3 is correct: Subject to the provisions of this Act, the Appellate Tribunal 
+established under section 110 of the Electricity Act, 2003 (36 of 2003) shall be the Appellate 
+Tribunal for the purposes of this Act and the said Appellate Tribunal shall exercise the 
+jurisdiction, powers and authority conferred on it by or under this Act : Provided that the 
+Technical Member of the Appellate Tribunal for the purposes of this Act shall be called the 
+Technical Member (Petroleum and Natural Gas) and shall have the qualifications specified in 
+subsection (2) of section 31.
+
+With  reference  to communication  technologies,  what  is/are  the  difference/ differences between LTE (Long-Term Evolution) and VoLTE (Voice over Long-Term Evolution)?
+1. LTE is commonly marketed as 3G and VoLTE is commonly marketed as advanced 3G.
+2. LTE is data-only technology and VoLTE is voice-only technology.
+Select the correct answer using the code given below.
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Correct Option: D
+Explanation:
+LTE and VoLTE
+*  Statement 1 is incorrect: VoLTE stands for voice over LTE. It's voice calls over a 4G LTE 
+network, rather than the 2G or 3G connections which are usually used.
+*   VoLTE is a technology update to the LTE protocol used by mobile phone networks. Under LTE, the 
+infrastructure of telecom players only allows transmission of data while voice calls are routed to 
+their older 2G or 3G networks. This is why, under LTE, you cannot access your 4G data services 
+while on a call. This leads to problems such as slow internet speeds and poor voice clarity.
+*   VoLTE allows voice calls to be 'packaged' and carried through LTE networks. This would mean 4G 
+data accessibility even during calls. VoLTE is an Internet Protocol Multimedia Subsystem (IMS) 
+specification which enables a variety of services to operate seamlessly on the network rather than 
+having to switch to different applications for voice or video
+*   Statement 2 is incorrect: In LTE, the network will switch off the data connection while making 
+voice calls, while you don't need to turn your data connection off while making a voice call in 
+VoLTE. While LTE is targeted for increasing data rates on the 4G bandwidth, VoLTE is targeted 
+towards both voice calling and internet data without affecting each other.
+
+Which of the following statements is/are correct regarding the Maternity Benefit (Amendment) Act, 2017?
+1. Pregnant women are entitled for three months pre-delivery and three months post-delivery paid leave.
+2. Enterprises with créches must allow the mother minimum six créche visits daily.
+3. Women with two children get reduced entitlements.
+Select the correct answer using the code given below:
+(a) 1 and 2 only
+(b) 2 only
+(c) 3 only
+(d) 1, 2 and 3
+Correct Option: C
+Explanation:
+Maternity Benefit (Amendment) Act, 2017
+      The Maternity (Amendment) Bill 2017 an amendment to the Maternity Benefit Act, 1961, was
+passed in the Parliament and received assent from President of India on March 27, 2017.
+*   The Act protects the employment of women during the time of her maternity and entitles her of a 
+'maternity benefit' — i.e. full paid absence from work — to take care for her child. The act is 
+applicable to all establishments employing 10 or more employees.
+Statement 1 is incorrect: The Maternity Benefit Amendment Act has increased the duration of paid 
+maternity leave available for women employees from the 12 weeks previously to 26 weeks (6 months). 
+This benefit could be availed by women for a period extending up to a maximum of 8 weeks (and not 3 
+months) before the expected delivery date and the remaining time can be availed post childbirth.
+Statement 2 is incorrect: The Act makes créche facility mandatory for every establishment employing 
+50 or more employees. Women employees would be permitted to visit the créche 4 times during the day 
+(including rest intervals)
+Statement 3 is correct: For women who are expecting after having 2 children, the duration of paid 
+maternity leave shall be only 12 weeks as against 26 weeks for first and second child.
+
+Which one of the following is not a sub-index of the World Bank's "Ease of Doing Business Index"?
+(a) Maintenance of law and order
+(b) Paying taxes
+(c) Registering property
+(d) Dealing with construction permits
+Correct Option: A
+Explanation:
+The Ease of doing business index ranks countries against each other based on how the regulatory
+environment is conducive to business operation.
+Of the options given, the option A, i.e. 'Maintenance of law and order' is not a sub-index of the
+'Ease of Doing Business Index' and hence, is the correct answer.
+
+In India, 'extended producer responsibility' was introduced as an important feature in which of the following?
+(a) The Bio-medical Waste (Management and Handling) Rules, 1998
+(b) The Recycled Plastic (Manufacturing and Usage) Rules, 1999
+(c) The e-Waste (Management and Handling) Rules, 2011
+(d) The Food Safety and Standard Regulations, 2011
+Correct Option: C
+Explanation:
+E-Waste (Management and Handling) Rules, 2011
+*   The Ministry of Environment, Forest and Climate Change had notified the E-Waste Management 
+Rules, 2016 in supersession of the e-waste (Management & Handling) Rules, 2011.
+*   Announcing the notification of the rules, Minister of State (Independent Charge) of 
+Environment, Forest and Climate Change, Shri Prakash Javadekar, said that norms had been made more 
+stringent and reflected the government's commitment to environmental governance.
+He pointed out that the E-waste rules will now include Compact Fluorescent Lamp (CFL) and other 
+mercury containing lamps, as well as other such equipment.
+      The Minister said that for the first time, the Rules will bring the producers under Extended
+Producer Responsibility (EPR), along with targets. He added that producers have been made 
+responsible for collection of E-waste and for its exchange.
+
+The  economic cost of food grains to the Food Corporation of India is Minimum Support Price and bonus (if any) paid to the farmers plus
+(a) Transportation cost only
+(b) Interest cost only
+(c) Procurement incidentals and distribution cost
+(d) Procurement incidentals and charges for godowns
+Correct Option: C
+Explanation:
+*   Components of economic cost of food grains incurred by the Food Corporation of India:
+Economic cost
+Procurement cost
+Procurement price
+Distribution cost
+Handling
+charges
+Storage
+charges
+statutory Charges
+Charges paid to state govemment for storage
+
+In the context of any country, which one of the following would be considered as part of its social capitals?
+(a) The proportion of literates in the population
+(b) The stock of its buildings, other infrastructure and machines
+(c) The size of population in the working age group
+(d) The level of mutual trust and harmony in the society
+Correct Option: D
+Explanation:
+*  Social capital broadly refers to those factors of effectively functioning social groups that
+include such things as interpersonal relationships, a shared sense of identity, a shared 
+understanding, shared norms, shared values, trust, cooperation and reciprocity.
+*   The term generally refers to
+1. resources, and the value of these resources, both tangible
+(public spaces, private property) and intangible ("actors", "human capital", and people),
+2. the relationships among these resources, and
+3. the impact that these relationships have on the resources involved in each relationship, and on larger groups. It is generally seen as a form of
+capital that produces public goods for a common good.
+*   Social capital has been used to explain the improved performance of diverse groups, the growth 
+of entrepreneurial firms, superior managerial performance, enhanced supply chain relations, the 
+value derived from strategic alliances, and the evolution of communities.
+  Hence, the correct answer to this question is D 'The level of mutual trust and harmony in
+the society'.
