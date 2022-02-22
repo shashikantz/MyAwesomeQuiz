@@ -37,25 +37,26 @@
 
     <!-- Strings used for Spinner of Question topics-->
     <string-array name="question_topics">
-        <item>Modern History</item>
-        <item>Medieval History</item>
-        <item>Ancient History</item>
-        <item>Art and Culture</item>
-        <item>Physical Geography</item>
-        <item>Social Geography</item>
-        <item>Economic Geography</item>
-        <item>Constitution</item>
-        <item>Governance</item>
-        <item>India And The World</item>
-        <item>Fundamentals Of Economics</item>
-        <item>Banking And Finance</item>
-        <item>Agriculture</item>
-        <item>Growth And Development</item>
-        <item>International Economics</item>
-        <item>Science And Technology</item>
-        <item>Environment</item>
-        <item>Current Affairs</item>
-        <item>General Knowledge</item>
-        <item>Aptitude</item>
+        <item></item>
+            <item>modern-history</item>
+            <item>medieval-history</item>
+            <item>ancient-history</item>
+            <item>art-and-culture</item>
+            <item>physical-geography</item>
+            <item>social-geography</item>
+            <item>economic-geography</item>
+            <item>constitution</item>
+            <item>governance</item>
+            <item>india-and-the-world</item>
+            <item>fundamentals-of-economics</item>
+            <item>banking-and-finance</item>
+            <item>agriculture</item>
+            <item>growth-and-development</item>
+            <item>international-economics</item>
+            <item>science-and-technology</item>
+            <item>environment</item>
+            <item>current-affairs</item>
+            <item>general-knowledge</item>
+            <item>aptitude</item>
     </string-array>
 </resources>

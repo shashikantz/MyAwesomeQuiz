@@ -56,7 +56,7 @@ public class DataBaseHelper extends SQLiteOpenHelper {
     private void copyDataBase() throws IOException {
         Log.d(TAG, "copyDataBase >> Copying the database file from assests.");
 
-        InputStream mInput = mContext.getAssets().open("databases/" + DB_NAME + ".sqlite" );
+        InputStream mInput = mContext.getAssets().open("databases/" + DB_NAME );
         OutputStream mOutput = new FileOutputStream(DB_FILE);
         byte[] mBuffer = new byte[1024];
         int mLength;
