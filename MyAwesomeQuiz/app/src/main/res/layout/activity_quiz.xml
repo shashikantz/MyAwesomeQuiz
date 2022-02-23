@@ -9,7 +9,6 @@
     android:paddingLeft="10dp"
     tools:context="com.example.myawesomequiz.activities.quiz.QuizActivity">
 
-
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recycler_view_quiz"
         android:layout_width="match_parent"
@@ -18,7 +17,7 @@
         android:fadeScrollbars="false"
         android:nestedScrollingEnabled="false"
         android:overScrollMode="never"
-        android:scrollbarSize="2sp"
+        android:scrollbarSize="4sp"
         android:scrollbarThumbVertical="@color/purple_500"
         android:scrollbars="vertical" />
 </LinearLayout>

@@ -8,6 +8,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.RadioButton;
+import android.widget.Toast;
+import android.widget.ToggleButton;
 
 import androidx.recyclerview.widget.RecyclerView;
 
@@ -19,15 +21,17 @@ import java.util.List;
 public class QuestionGalleryAdapter
         extends RecyclerView.Adapter<QuestionViewHolder> {
 
+    final String TAG = "QuestionAdapter >>";
     List<Question> questionList;
-
     Context context;
+    QuizDBAdapter dbAdapter;
 
     public QuestionGalleryAdapter(List<Question> list,
-                                  Context context)
+                                  Context context, QuizDBAdapter dbAdapter)
     {
         this.questionList = list;
         this.context = context;
+        this.dbAdapter = dbAdapter;
     }
 
     @Override
@@ -73,6 +77,29 @@ public class QuestionGalleryAdapter
                 Log.d("QuestionAdapter >>" , "Question no: "+questionNumber+" ,clicked answer no: " + selectedAnswer + " Correct ans: "+ questionList.get(questionNumber).getCorrectAnswer() );
                 questionList.get(questionNumber).setSelectedAnswer(4);
                 changeOptionTextColor(btnSelected, isAnswerCorrect(questionNumber,selectedAnswer));
+            }
+
+            @Override
+            public void onFavoriteBtnSelection(View buttonSelected, int adapterPosition) {
+//                Log.d("QuestionAdapter >>","Q position: "+adapterPosition+" Favorite Selected: " + buttonSelected.isSelected() );
+                ToggleButton btn_favorite = (ToggleButton) buttonSelected;
+                if(btn_favorite.isChecked()){
+                    Log.d(TAG, "Favorite Button checked," + " Question ID: " + questionList.get(adapterPosition).getId());
+                    Toast.makeText(questionView.getContext(), "Favorited!", Toast.LENGTH_SHORT).show();
+                    questionList.get(adapterPosition).setFavorite(true);
+
+                    // store new row into the 'favorites' table
+                    dbAdapter.setFavorite(questionList.get(adapterPosition).getId());
+                }
+                else{
+                    Log.d(TAG, "Favorite Button un-checked," + " Question ID: " + questionList.get(adapterPosition).getId());
+                    Toast.makeText(questionView.getContext(), "unFavorited!", Toast.LENGTH_SHORT).show();
+                    questionList.get(adapterPosition).setFavorite(false);
+
+                    // remove entry from 'favorites' table
+                    dbAdapter.unSetFavorite(questionList.get(adapterPosition).getId());
+
+                }
             }
 
         });
@@ -142,8 +169,8 @@ public class QuestionGalleryAdapter
                 .setText(questionList.get(position).getOption4());
 
         viewHolder.text_view_explanation.setText(Html.fromHtml(questionList.get(position).getExplanation()));
+        viewHolder.btn_favorite.setChecked(questionList.get(position).isFavorite());
 
-        Log.d("QuestionAdapter >>" , "Explanation >>>>" + questionList.get(position).getExplanation());
 
         /*
         RecyclerView recycles views. Earlier selected view can be used to show the offscreen item(question with

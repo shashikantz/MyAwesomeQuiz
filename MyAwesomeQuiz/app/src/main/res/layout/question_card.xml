@@ -66,14 +66,33 @@
     </RadioGroup>
 
 
-    <com.google.android.material.button.MaterialButton
-        android:id="@+id/btn_explanation"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal|top"
-        android:text="Explanation"
-        app:shapeAppearanceOverlay="@style/buttonShape" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="8">
 
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_explanation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:layout_weight="3"
+            android:text="Explanation"
+            app:shapeAppearanceOverlay="@style/buttonShape" />
+
+        <ToggleButton
+            android:id="@+id/btn_favorite"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_gravity="center_vertical|end"
+            android:layout_marginLeft="60dp"
+            android:layout_weight="1"
+            android:background="@drawable/favorite_toggle_image"
+            android:text=""
+            android:textOff=""
+            android:textOn="" />
+
+    </LinearLayout>
 
     <LinearLayout
         android:id="@+id/hidden_view_explanation"

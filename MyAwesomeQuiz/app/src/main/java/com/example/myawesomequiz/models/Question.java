@@ -17,6 +17,7 @@ public class Question {
     private String topic; //modern-history
 
     private int selectedAnswer = -1; //option -1 -> means not selected yet
+    private boolean isFavorite = false; // to take care of the recyclerView invisible item that are favorited
 
 
 
@@ -136,5 +137,13 @@ public class Question {
 
     public void setSelectedAnswer(int selectedAnswer) {
         this.selectedAnswer = selectedAnswer;
+    }
+
+    public boolean isFavorite() {
+        return isFavorite;
+    }
+
+    public void setFavorite(boolean favorite) {
+        isFavorite = favorite;
     }
 }

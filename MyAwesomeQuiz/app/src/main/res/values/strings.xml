@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Awesome IAS Quiz</string>
+    <string name="app_name">AwesomeIAS Papers</string>
     <!-- Strings used for Spinner of Previous Years-->
     <string-array name="previous_years">
         <item>Prelims 2021</item>

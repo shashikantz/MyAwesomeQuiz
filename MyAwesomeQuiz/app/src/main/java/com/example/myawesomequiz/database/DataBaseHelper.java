@@ -17,16 +17,31 @@ public class DataBaseHelper extends SQLiteOpenHelper {
     private static String DB_NAME ="awesomequiz"; // Database name
     private static int DB_VERSION = 1; // Database version
     private final File DB_FILE;
-    private SQLiteDatabase mDataBase;
     private final Context mContext;
 
     public DataBaseHelper(Context context) {
         super(context, DB_NAME, null, DB_VERSION);
         DB_FILE = context.getDatabasePath(DB_NAME);
         this.mContext = context;
+        this.createDataBase();
+
     }
 
-    public void createDataBase() throws IOException {
+    private void emptyFavoriteTable() {
+        String sqlQuery = "DELETE FROM favorites;";
+        SQLiteDatabase db = null;
+        try {
+            db = this.getWritableDatabase();
+            db.execSQL(sqlQuery);
+        } catch (SQLException e) {
+            Log.e(TAG, " createFavoriteTable >>" + e.toString());
+            throw e;
+        } finally {
+            db.close();
+        }
+    }
+
+    public void createDataBase()  {
         // If the database does not exist, copy it from the assets.
         boolean mDataBaseExist = checkDataBase();
 
@@ -34,13 +49,12 @@ public class DataBaseHelper extends SQLiteOpenHelper {
             Log.d(TAG, "createDataBase >> Database file already exists: " + DB_FILE);
 
         } else {
-            this.getReadableDatabase();
-            this.close();
             try {
-                // Copy the database from assests
-                Log.e(TAG, "Copying the database from assests");
+                // Copy the database from assets
+                Log.d(TAG, "Copying the database from assets");
                 copyDataBase();
-                Log.e(TAG, "createDatabase database created");
+                Log.d(TAG, "createDatabase database created");
+                emptyFavoriteTable();
             } catch (IOException mIOException) {
                 throw new Error("ErrorCopyingDataBase");
             }
@@ -68,21 +82,8 @@ public class DataBaseHelper extends SQLiteOpenHelper {
         mInput.close();
     }
 
-    // Open the database, so we can query it
-    public boolean openDataBase() throws SQLException {
-        // Log.v("DB_PATH", DB_FILE.getAbsolutePath());
-        mDataBase = SQLiteDatabase.openDatabase(DB_FILE.getAbsolutePath(), null, SQLiteDatabase.CREATE_IF_NECESSARY);
-        // mDataBase = SQLiteDatabase.openDatabase(DB_FILE, null, SQLiteDatabase.NO_LOCALIZED_COLLATORS);
-        return mDataBase != null;
-    }
 
-    @Override
-    public synchronized void close() {
-        if(mDataBase != null) {
-            mDataBase.close();
-        }
-        super.close();
-    }
+
 
     @Override
     public void onCreate(SQLiteDatabase sqLiteDatabase) {
@@ -93,5 +94,6 @@ public class DataBaseHelper extends SQLiteOpenHelper {
     public void onUpgrade(SQLiteDatabase sqLiteDatabase, int i, int i1) {
 
     }
+
 
 }

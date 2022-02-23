@@ -12,6 +12,7 @@ import android.widget.LinearLayout;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.TextView;
+import android.widget.ToggleButton;
 
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
@@ -20,8 +21,9 @@ import com.example.myawesomequiz.R;
 
 public class QuestionViewHolder
         extends RecyclerView.ViewHolder implements View.OnClickListener {
+    final String TAG = "QuestionViewHolder";
+    ToggleButton btn_favorite;
     Button btn_explanation;
-    TextView textViewQuestionType;
     TextView text_view_explanation;
     TextView textViewQuestionStatement;
     RadioGroup rbGroup;
@@ -60,6 +62,9 @@ public class QuestionViewHolder
         text_view_explanation = questionView.findViewById(R.id.text_view_explanation);
 
         btn_explanation.setOnClickListener(this);
+
+        btn_favorite = questionView.findViewById(R.id.btn_favorite);
+        btn_favorite.setOnClickListener(this);
     }
 
 
@@ -104,6 +109,10 @@ public class QuestionViewHolder
                 }
 
                 break;
+            case R.id.btn_favorite:
+                listener.onFavoriteBtnSelection(btnSelected, getAdapterPosition());
+//                Log.d(TAG, "Favorite btn selected.");
+                break;
             default:
                 break;
 
@@ -117,6 +126,7 @@ public class QuestionViewHolder
         void onSelectionOption2(View buttonSelected, int questionNumber, int answerSelected);
         void onSelectionOption3(View buttonSelected, int questionNumber, int answerSelected);
         void onSelectionOption4(View buttonSelected, int questionNumber, int answerSelected);
+        void onFavoriteBtnSelection(View buttonSelected, int adapterPosition);
 
     }
 }
