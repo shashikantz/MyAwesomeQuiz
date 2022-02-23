@@ -6,6 +6,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.Spinner;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -16,6 +17,7 @@ import com.example.myawesomequiz.activities.quiz.QuizActivity;
 import com.example.myawesomequiz.models.QuizContract;
 
 public class StartingScreenActivity extends AppCompatActivity {
+    private static final String TAG = "StartingScreenActivity";
     RecyclerView recyclerView;
 
     @Override
@@ -62,6 +64,26 @@ public class StartingScreenActivity extends AppCompatActivity {
 
         });
 
+        EditText searchText = findViewById(R.id.edittext_search_questions);
+        searchText.setSelectAllOnFocus(true);
+        Button btnSearch = findViewById(R.id.btn_search_questions);
+        btnSearch.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                String searchString = searchText.getText().toString();
+                Log.d(TAG, "btnSearch clicked! for string: " + searchString);
+                startQuiz(QuizContract.QuestionsTable.COLUMN_QUESTION, searchString);
+            }
+        });
+
+
+        Button btnFavoriteSearch = findViewById(R.id.btn_favorite_questions);
+        btnFavoriteSearch.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+               startQuiz(QuizContract.FavoritesTable.COLUMN_IS_FAVORITE, "1");
+            }
+        });
     }
 
     private void startQuiz(String columnName, String columnValue) {

@@ -37,7 +37,7 @@ public class QuizDBAdapter {
                 + "LEFT JOIN " + QuizContract.FavoritesTable.TABLE_NAME + " "
                 + "ON " +  QuizContract.QuestionsTable.TABLE_NAME + "." + QuizContract.QuestionsTable.COLUMN_ID
                 + " = " + QuizContract.FavoritesTable.TABLE_NAME + "." +  QuizContract.FavoritesTable.COLUMN_QUESTION_ID + " "
-                + "WHERE " + columnName + " = " + "'" + columnValue + "'" + " "
+                + "WHERE " + columnName + " LIKE " + "'%" + columnValue + "%'" + " "
                 + "ORDER BY " + QuizContract.QuestionsTable.COLUMN_QUE_TYPE_VALUE + " DESC";
         Log.d(TAG, "getTestData >> sqlQuery: " + sqlQuery);
 
@@ -62,7 +62,6 @@ public class QuizDBAdapter {
                     question.setExplanation(c.getString(c.getColumnIndex(QuizContract.QuestionsTable.COLUMN_EXPLANATION)));
 
                     String isFavorite = c.getString(c.getColumnIndex(QuizContract.FavoritesTable.COLUMN_IS_FAVORITE));
-                    Log.e(TAG, "setFavorite is : >>" + isFavorite+ " Q id: " + question.getId() );
                     if(isFavorite != null){
                         question.setFavorite(true);
                         Log.e(TAG, "setFavorite is true!!!! >>" + " Q id: " + question.getId() );
