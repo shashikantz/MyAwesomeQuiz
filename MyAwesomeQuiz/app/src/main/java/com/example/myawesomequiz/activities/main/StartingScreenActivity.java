@@ -15,15 +15,19 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.example.myawesomequiz.R;
 import com.example.myawesomequiz.activities.quiz.QuizActivity;
 import com.example.myawesomequiz.models.QuizContract;
+import com.google.firebase.analytics.FirebaseAnalytics;
 
 public class StartingScreenActivity extends AppCompatActivity {
     private static final String TAG = "StartingScreenActivity";
     RecyclerView recyclerView;
+    private FirebaseAnalytics mFirebaseAnalytics;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_starting_screen);
+        mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
 
 
         // Spinner showing previous years

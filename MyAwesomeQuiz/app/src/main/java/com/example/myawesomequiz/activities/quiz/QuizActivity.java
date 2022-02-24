@@ -10,6 +10,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.myawesomequiz.R;
 import com.example.myawesomequiz.models.Question;
+import com.google.firebase.analytics.FirebaseAnalytics;
 
 import java.util.List;
 
@@ -19,11 +20,15 @@ public class QuizActivity extends AppCompatActivity {
     private int questionCountTotal;
     private RecyclerView recyclerView;
     private QuestionGalleryAdapter questionGalleryAdapter;
+    private FirebaseAnalytics mFirebaseAnalytics;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_quiz);
+        mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
+
 
         Bundle extras = getIntent().getExtras();
         String columnName = extras.getString("columnName");
